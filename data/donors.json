@@ -22,6 +22,24 @@
   ],
   "background": "Formerly 3eyes Homes Limited."
  },
+ "a-wilderland": {
+  "slug": "a-wilderland",
+  "name": "Alan Wilderland",
+  "kind": "person",
+  "summary": "Serato co-founder, TOP board member, and the party's biggest backer by a wide margin.",
+  "background": "Wilderland co-founded Serato Audio Research, the Auckland company behind the DJ software used worldwide. He joined The Opportunities Party's board in February 2026 and has put more than $200,000 into the party, personally and through his company Alajamber. He has said he has a distaste for politics but that tax is the most influential lever for making systems fairer — including a policy that he says would leave him worse off. He told RNZ: \"You have to play the game.\"",
+  "stake": "Unusual in funding a party whose signature tax policy he says would cost him money.",
+  "sources": [
+   {
+    "title": "Serato co-founder not 'politically interested', but now Opportunity's biggest donor — Newsroom",
+    "url": "https://newsroom.co.nz/2026/07/20/serato-co-founder-was-not-politically-interested-but-is-now-opportunitys-biggest-donor/"
+   },
+   {
+    "title": "Opportunity's $200,000+ donor Alan Wilderland: 'You have to play the game' — RNZ",
+    "url": "https://www.rnz.co.nz/news/politics_election-2026/1046615/opportunity-s-200-000-donor-alan-wilderland-you-have-to-play-the-game"
+   }
+  ]
+ },
  "adn-commercial-ltd": {
   "slug": "adn-commercial-ltd",
   "name": "ADN Commercial Ltd",
@@ -96,7 +114,7 @@
   "slug": "alajamber-ltd",
   "name": "Alajamber Ltd",
   "kind": "company",
-  "summary": "Incorporated 30 Sep 2016. Alan James Wilderland holds 100.00% of the shares.",
+  "summary": "Alan Wilderland's company, used alongside his personal donations to The Opportunities Party.",
   "register": {
    "nzbn": "9429043350445",
    "incorporated": "30 Sep 2016",
@@ -111,8 +129,13 @@
    {
     "title": "ALAJAMBER LIMITED — Companies Office register",
     "url": "https://app.companiesoffice.govt.nz/companies/app/ui/pages/companies/6118930"
+   },
+   {
+    "title": "Opportunity's $200,000+ donor Alan Wilderland — RNZ",
+    "url": "https://www.rnz.co.nz/news/politics_election-2026/1046615/opportunity-s-200-000-donor-alan-wilderland-you-have-to-play-the-game"
    }
-  ]
+  ],
+  "background": "Alajamber is wholly owned by Alan Wilderland, co-founder of Serato and a TOP board member. The company gave TOP $20,020 in April 2026 and $21,140 in July 2026, on top of his personal donations."
  },
  "alchemy-wealth-ltd": {
   "slug": "alchemy-wealth-ltd",
@@ -364,6 +387,66 @@
    }
   ]
  },
+ "c-armer": {
+  "slug": "c-armer",
+  "name": "Colin and Dale Armer",
+  "kind": "person",
+  "summary": "Among the country's largest dairy farmers, and the biggest shareholders in Dairy Holdings.",
+  "background": "The Armers own fifteen large North Island farms milking about 12,000 cows, and hold roughly 42% of Dairy Holdings, New Zealand's largest dairy farming business. Colin Armer is a former Fonterra director. They gave National $60,000 in July 2026.",
+  "register": {
+   "industry": "Dairy farming"
+  },
+  "stake": "Dairy is directly exposed to emissions pricing, freshwater rules and Fonterra regulation — all contested between the blocs.",
+  "sources": [
+   {
+    "title": "Featured NBR Rich Lister: Colin and Dale Armer",
+    "url": "https://www.nbr.co.nz/featured-nbr-rich-list-colin-and-dale-armer"
+   },
+   {
+    "title": "NZ's 10 largest dairy farmers — NZ Herald",
+    "url": "https://www.nzherald.co.nz/business/companies/agribusiness/nzs-10-largest-dairy-farmers-reveal-changing-face-of-an-industry/MQBXEXNQQFFQBOYXJUUHXDEQ6Q/"
+   }
+  ]
+ },
+ "c-greenlees": {
+  "slug": "c-greenlees",
+  "name": "Craig & Shayne Greenlees",
+  "kind": "person",
+  "summary": "A Tauranga family who give to ACT and National in matched pairs, jointly and separately.",
+  "background": "Craig and Shayne Greenlees file from the same rural address at Whakamarama outside Tauranga, and their donations arrive in step: identical amounts to the same party on the same day, sometimes filed jointly and sometimes individually. Across both cycles their combined giving exceeds $350,000, split between ACT and National. Electoral Commission annual returns show the pattern continuing between election years.",
+  "stake": "The matched-pair pattern is itself notable: two donors giving identical sums on the same day is the closest thing on this register to a household acting as a single funder.",
+  "sources": [
+   {
+    "title": "ACT Party annual return 2025 — Electoral Commission",
+    "url": "https://elections.nz/assets/Annual-Returns/2025/ACT-Annual-Return-2025.pdf"
+   },
+   {
+    "title": "National Party annual return 2025 — Electoral Commission",
+    "url": "https://elections.nz/assets/Annual-Returns/2025/National-Annual-Return-2025.pdf"
+   }
+  ]
+ },
+ "c-manson": {
+  "slug": "c-manson",
+  "name": "Culum Alexander Manson",
+  "kind": "person",
+  "summary": "Managing director of Mansons TCLM, the Auckland commercial property developer.",
+  "background": "Culum Manson is one of Ted Manson's three sons — the TCLM in the company name stands for Ted, Culum, Luke and Mac — and runs the business as managing director. Mansons TCLM builds large Auckland office developments and has carried an order book above $1 billion. The family funds the Ted Manson Community Trust, a $15 million fund supporting about twenty community organisations. He gave National $70,000 in July 2023.",
+  "register": {
+   "industry": "Commercial property development"
+  },
+  "stake": "Commercial development in Auckland, exposed to planning rules, consenting and the office market.",
+  "sources": [
+   {
+    "title": "Featured NBR Listers 2024: Manson family",
+    "url": "https://www.nbr.co.nz/featured-listers-2024/featured-nbr-listers-2024-manson-family-2/"
+   },
+   {
+    "title": "About — Mansons TCLM",
+    "url": "https://mansons.co.nz/index.php/about/"
+   }
+  ]
+ },
  "c-meehan": {
   "slug": "c-meehan",
   "name": "Christopher & Michaela Meehan",
@@ -383,6 +466,23 @@
    {
     "title": "Winton Land Limited — The Integrity Institute",
     "url": "https://theintegrityinstitute.substack.com/p/winton-land-limited"
+   }
+  ]
+ },
+ "c-reeve": {
+  "slug": "c-reeve",
+  "name": "Christopher Reeve",
+  "kind": "person",
+  "summary": "A dairy farmer turned property developer who has been one of ACT's steadiest large donors for a decade.",
+  "background": "Reeve, who started farming at Kaikohe and now lives in Takapuna, has given ACT repeatedly since at least 2017; Electoral Commission records cited by the Herald put his giving to the party at $430,000 between July 2017 and July 2021, and he has continued through both cycles here with $25,000 in March 2023 and $50,000 twice in 2026. He has also directed money to National through a farming company. Reporting on him uses the spelling \"Chris Reeves\".",
+  "sources": [
+   {
+    "title": "Wealthy political donor speaks on why his money has gone to National instead of Act — NZ Herald",
+    "url": "https://www.nzherald.co.nz/nz/politics/wealthy-political-donor-speaks-on-why-his-money-has-gone-to-national-instead-of-act/UEHRM32Z6LQGCQ3A6W52NGU2DA/"
+   },
+   {
+    "title": "ACT New Zealand donations — OpenBrief",
+    "url": "https://openbrief.co.nz/orgs/45538/donations"
    }
   ]
  },
@@ -501,6 +601,19 @@
    }
   ]
  },
+ "d-townshend": {
+  "slug": "d-townshend",
+  "name": "Diane Townshend",
+  "kind": "person",
+  "summary": "Gives to National and ACT in step with Mark Townshend, from the same Ngatea dairy farm.",
+  "background": "Diane Townshend's donations mirror Mark Townshend's exactly in amount and date, filed from the same Ngatea address, under both the \"Townshend\" and \"Townsend\" spellings.",
+  "sources": [
+   {
+    "title": "Donations exceeding $20,000 — Electoral Commission",
+    "url": "https://elections.nz/democracy-in-nz/political-parties-in-new-zealand/donations-exceeding-20000"
+   }
+  ]
+ },
  "dairy-workers-union": {
   "slug": "dairy-workers-union",
   "name": "Dairy Workers Union",
@@ -555,6 +668,23 @@
    }
   ]
  },
+ "f-hernandez": {
+  "slug": "f-hernandez",
+  "name": "Francisco Hernandez",
+  "kind": "person",
+  "summary": "Green list MP whose $43,014 to the party is mostly salary tithing plus a Dunedin campaign gift.",
+  "background": "Hernandez is a Green MP based in Dunedin. His February 2026 donation of $43,014.56 combines a $40,000 gift to the party's \"turn Dunedin Green\" campaign with the salary tithing Green MPs agree to — a standing arrangement where MPs return part of their parliamentary salary to the party. That is why several Green MPs appear on a register otherwise full of business donors.",
+  "sources": [
+   {
+    "title": "Francisco Hernandez — Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Francisco_Hernandez_(politician)"
+   },
+   {
+    "title": "Who's funding who in election year? — The Spinoff",
+    "url": "https://thespinoff.co.nz/politics/14-04-2026/whos-funding-who-in-election-year"
+   }
+  ]
+ },
  "foresta-nz-ltd": {
   "slug": "foresta-nz-ltd",
   "name": "Foresta (NZ) Ltd",
@@ -580,6 +710,33 @@
    }
   ],
   "background": "Formerly Bioresources Limited."
+ },
+ "g-barfoot": {
+  "slug": "g-barfoot",
+  "name": "Garth Barfoot",
+  "kind": "person",
+  "summary": "Barfoot & Thompson director who has given to National for half a century.",
+  "background": "Barfoot is a director of Barfoot & Thompson, Auckland's largest residential real estate agency, and a competitive triathlete into his eighties. Reporting puts his donations to National above $270,000 since 2010, and he says he has been giving for more than fifty years. He told reporters he makes a point of never asking for anything and never lobbying.",
+  "stake": "Real estate agency income tracks the housing market, which policy moves — though Barfoot's stated position is that he asks for nothing in return.",
+  "sources": [
+   {
+    "title": "Barfoot & Thompson — The Democracy Project",
+    "url": "https://www.democracyproject.org.nz/p/barfoot-and-thompson"
+   },
+   {
+    "title": "Big spenders reveal why they give tens of thousands to political parties — Stuff",
+    "url": "https://www.stuff.co.nz/politics/360974099/big-spenders-reveal-why-they-give-tens-thousands-political-parties"
+   }
+  ]
+ },
+ "g-lane": {
+  "slug": "g-lane",
+  "name": "Gary Lane",
+  "kind": "person",
+  "noPublicProfile": true,
+  "summary": "An ACT donor who gave $50,000 in each cycle, with no public profile beyond the returns.",
+  "background": "Lane gave ACT $50,000 in March 2023 and $50,000 in May 2026, filing from Herne Bay in Auckland. Searches found no reliable public information identifying him further.",
+  "sources": []
  },
  "gmp-environmental-ltd": {
   "slug": "gmp-environmental-ltd",
@@ -649,6 +806,23 @@
   ],
   "background": "Formerly C & Z Tech Limited, Yerite.Com Limited."
  },
+ "i-little": {
+  "slug": "i-little",
+  "name": "Islay Little",
+  "kind": "person",
+  "summary": "A Dunedin librarian who gave Labour $100,000 — the party's largest single donation that year.",
+  "background": "Little gave the Labour Party $100,000 in April 2023, part of around $110,000 in instalments. She is not a business figure: reporting described her simply as a Dunedin librarian, which made the size of the gift unusual on a register dominated by developers and investors.",
+  "sources": [
+   {
+    "title": "Political donations: people power no match for big business — Newsroom",
+    "url": "https://newsroom.co.nz/2024/05/06/political-donations-people-power-no-match-for-big-business/"
+   },
+   {
+    "title": "Wealthy donors match $150,000 in small donations to Labour — NZ Herald",
+    "url": "https://www.nzherald.co.nz/nz/politics/wealthy-donors-match-150000-in-small-donations-to-labour/RD75PVHAXFBGFOFKVG3CF4OYGQ/"
+   }
+  ]
+ },
  "ief-ltd": {
   "slug": "ief-ltd",
   "name": "IEF Ltd",
@@ -673,6 +847,24 @@
    }
   ]
  },
+ "j-douglas": {
+  "slug": "j-douglas",
+  "name": "Jeffrey Graeme Douglas",
+  "kind": "person",
+  "summary": "Managing director of Douglas Pharmaceuticals, New Zealand's largest privately owned pharmaceutical manufacturer.",
+  "background": "Jeff Douglas is the son of the late Sir Graeme Douglas and runs Douglas Pharmaceuticals, the family company that manufactures and exports generic and specialist medicines from West Auckland. He is a trustee of the Douglas Charitable Trust and received a lifetime achievement award for manufacturing in 2026. Reporting puts his giving to National at close to $104,000 over two years, alongside donations to ACT.",
+  "stake": "Pharmaceutical manufacturing is shaped by Pharmac's buying decisions, medicines regulation and export settings.",
+  "sources": [
+   {
+    "title": "Douglas, Jeffrey — donor profile, PublicData NZ",
+    "url": "https://publicdata.co.nz/parliament/party-donations/donors/douglas-jeffrey"
+   },
+   {
+    "title": "Featured Rich Listers: Douglas family — NBR",
+    "url": "https://www.nbr.co.nz/nbr-rich-list/featured-rich-listers-douglas-family/"
+   }
+  ]
+ },
  "j-gibbs": {
   "slug": "j-gibbs",
   "name": "Dame Jenny Gibbs",
@@ -688,6 +880,89 @@
    {
     "title": "ACT donations surge, doubling in 20 days — ODT / RNZ",
     "url": "https://www.odt.co.nz/news/national/donations-act-party-surge-doubling-20-days-rnz"
+   }
+  ]
+ },
+ "j-marcroft": {
+  "slug": "j-marcroft",
+  "name": "Jennifer Marcroft",
+  "kind": "person",
+  "summary": "NZ First MP who has given her own party $62,000 across the two cycles.",
+  "background": "Jenny Marcroft is a former broadcaster who entered Parliament with NZ First in 2017 and is Parliamentary Under-Secretary for Media and Communications. She stands in Kaipara ki Mahurangi, which covers Warkworth, Wellsford and Helensville, and has lived in the Rodney district for two decades. She gave NZ First $32,000 in August 2023 and $30,000 in September 2026.",
+  "stake": "A sitting MP funding her own party's campaign — a different category from the business money that dominates this register.",
+  "sources": [
+   {
+    "title": "Jenny Marcroft — Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Jenny_Marcroft"
+   },
+   {
+    "title": "Jenny Marcroft — Beehive biography",
+    "url": "https://www.beehive.govt.nz/minister/biography/jenny-marcroft"
+   }
+  ]
+ },
+ "j-shaw": {
+  "slug": "j-shaw",
+  "name": "James Shaw",
+  "kind": "person",
+  "summary": "Then Green co-leader and Climate Change Minister; his $20,268 is salary tithing.",
+  "background": "Shaw co-led the Green Party from 2015 to 2024 and was Minister for Climate Change, taking the Zero Carbon Act through Parliament. His August 2023 donation, filed on the same day as Marama Davidson's, is the MPs' salary tithe rather than a personal gift of outside wealth.",
+  "sources": [
+   {
+    "title": "James Shaw — Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/James_Shaw_(New_Zealand_politician)"
+   }
+  ]
+ },
+ "j-tamihere": {
+  "slug": "j-tamihere",
+  "name": "John Tamihere",
+  "kind": "person",
+  "summary": "Te Pāti Māori's president and chief executive of the Waipareira Trust, funding the party he runs.",
+  "background": "Tamihere is a former Labour MP, former Auckland mayoral candidate, president of Te Pāti Māori and chief executive of Te Whānau o Waipareira. He gave the party $50,000 in July 2023 and $40,000 in February 2026. Charities Services ran a three-year investigation into Waipareira over political funding, closing it after the trust agreed to stop; its accounts showed $385,307 in interest-free loans advanced to Tamihere's political campaigns, which the trust later moved to claw back. Tamihere has denied wrongdoing.",
+  "stake": "A party officer donating to his own party, while also running a charity that regulators examined over political funding.",
+  "sources": [
+   {
+    "title": "Waipareira Trust to try to claw back $385,000 in loans to John Tamihere campaigns — Te Ao Māori News",
+    "url": "https://www.teaonews.co.nz/2023/05/18/waipareira-trust-to-try-to-claw-back-385000-in-loans-to-john-tamihere-campaigns/"
+   },
+   {
+    "title": "Te Pāti Māori political donations — The Integrity Institute",
+    "url": "https://theintegrityinstitute.substack.com/p/te-pati-maori-political-donations"
+   }
+  ]
+ },
+ "k-maughan": {
+  "slug": "k-maughan",
+  "name": "Karl Maughan",
+  "kind": "person",
+  "summary": "The painter known for his large garden canvases; gave Labour $33,804 in April 2023.",
+  "background": "Karl Maughan, born 1964, is one of New Zealand's best-known contemporary painters, recognised for dense oil paintings of gardens and rhododendrons. The odd amount of his donation suggests a gift in kind — artworks sold for the party — rather than cash, though the return does not say so.",
+  "sources": [
+   {
+    "title": "Karl Maughan — Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Karl_Maughan"
+   },
+   {
+    "title": "Karl Maughan — Artnet",
+    "url": "https://www.artnet.com/artists/karl-maughan/"
+   }
+  ]
+ },
+ "l-dotcom": {
+  "slug": "l-dotcom",
+  "name": "Liz Dotcom",
+  "kind": "person",
+  "summary": "Candidate and funder of the NZ Outdoors & Freedom Party; married to Kim Dotcom.",
+  "background": "Liz Dotcom announced in September 2026 that she would stand for the NZ Outdoors & Freedom Party in Kaipara ki Mahurangi, the seat vacated by National's Chris Penk. Her $44,000 donation in late September is the only donation over $20,000 the party has declared, making her effectively its sole large funder.",
+  "sources": [
+   {
+    "title": "Political donations tracker: Liz Dotcom among flurry of new political donors — RNZ",
+    "url": "https://www.rnz.co.nz/news/politics/647946/political-donations-tracker-liz-dotcom-among-flurry-of-new-political-donors"
+   },
+   {
+    "title": "Kim Dotcom's wife Liz to contest Kaipara ki Mahurangi seat — NZ Herald",
+    "url": "https://www.nzherald.co.nz/nz/kim-dotcoms-wife-liz-to-contest-outgoing-national-mp-chris-penks-kaipara-ki-mahurangi-seat/SSDOXM43CFHDBHB3WQGVCXK5KE/"
    }
   ]
  },
@@ -716,6 +991,40 @@
    }
   ]
  },
+ "m-chandler": {
+  "slug": "m-chandler",
+  "name": "Murray Chandler",
+  "kind": "person",
+  "summary": "New Zealand's only chess grandmaster, and a $100,000-a-cycle donor to ACT.",
+  "background": "Murray Chandler became New Zealand's first and so far only over-the-board grandmaster in 1983. He took British citizenship in the 1980s and played for England at six Chess Olympiads, worked as an author, publisher and organiser, and returned to live in New Zealand in 2006. In 2013 he bought the former St Paul's church in Devonport to house the New Zealand National Chess Centre, and he founded the New Zealand Chess Academy. He gave ACT $100,000 in March 2023 and another $100,000 in June 2026.",
+  "sources": [
+   {
+    "title": "Chequemate! Act Party's $35,000 chess Grandmaster donation — NZ Herald",
+    "url": "https://www.nzherald.co.nz/nz/chequemate-act-partys-35000-chess-grandmaster-donation/UQ42KEWPSXZMIIAIHA7EKMKRIE/"
+   },
+   {
+    "title": "Murray Chandler — Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Murray_Chandler"
+   }
+  ]
+ },
+ "m-davidson": {
+  "slug": "m-davidson",
+  "name": "Marama Davidson",
+  "kind": "person",
+  "summary": "Green Party co-leader; her $21,158 to the party is salary tithing, not outside money.",
+  "background": "Davidson has co-led the Green Party since 2018 and was a minister in the 2020–2023 government. Her August 2023 donation reflects the tithe Green MPs pay from their parliamentary salaries. She has also defended the party taking large private donations while campaigning to cap donations at $30,000 and bar company giving, saying the cap would apply to the Greens too.",
+  "sources": [
+   {
+    "title": "Marama Davidson — Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Marama_Davidson"
+   },
+   {
+    "title": "Greens plan to cap political donations at $30,000 — 1News",
+    "url": "https://www.1news.co.nz/2026/09/22/greens-plan-to-cap-political-donations-at-30000-block-companies/"
+   }
+  ]
+ },
  "m-jones": {
   "slug": "m-jones",
   "name": "Estate of Murray George Jones",
@@ -734,6 +1043,49 @@
    }
   ]
  },
+ "m-lookman": {
+  "slug": "m-lookman",
+  "name": "Michael Lookman",
+  "kind": "person",
+  "summary": "A low-profile Nelson investor who is one of the Green Party's largest individual donors.",
+  "background": "Lookman gave the Greens $100,000 in May 2023 and $50,000 in May 2026, with further giving reported in between taking his total to around $200,000. He keeps no public profile beyond business mentions; reporting describes him as a Nelson-based investor.",
+  "sources": [
+   {
+    "title": "Michael Lookman — interest.co.nz",
+    "url": "https://www.interest.co.nz/category/people/michael-lookman"
+   },
+   {
+    "title": "Three-and-a-bit years and $50m+ of political donations, visualised — The Spinoff",
+    "url": "https://thespinoff.co.nz/politics/08-05-2026/three-and-a-bit-years-and-50m-of-political-donations-visualised"
+   }
+  ]
+ },
+ "m-muralidhar": {
+  "slug": "m-muralidhar",
+  "name": "Mahesh Muralidhar",
+  "kind": "person",
+  "summary": "National's Tāmaki candidate and a venture investor, funding his own campaign.",
+  "background": "Muralidhar is a technology investor who has stood for National in Tāmaki with the backing of former party president Peter Goodfellow, the electorate chair. His $36,479 donation in August 2023 is a candidate funding his own campaign rather than outside money coming in.",
+  "sources": [
+   {
+    "title": "Staying pink or turning blue again? The battle for Tāmaki — Newsroom",
+    "url": "https://newsroom.co.nz/2026/07/22/staying-pink-or-turning-blue-again-the-battle-for-tamaki/"
+   },
+   {
+    "title": "Mahesh Muralidhar carries an ambitious message across Tāmaki — Indian Newslink",
+    "url": "https://www.indiannewslink.co.nz/mahesh-muralidhar-carries-an-ambitious-message-across-tamaki"
+   }
+  ]
+ },
+ "m-reid": {
+  "slug": "m-reid",
+  "name": "Michael Reid",
+  "kind": "person",
+  "noPublicProfile": true,
+  "summary": "An ACT donor who gave $50,000 in each cycle, with no public profile beyond the returns.",
+  "background": "Reid gave ACT $50,000 in April 2023 and $50,000 in May 2026, filing from St Heliers in Auckland. Searches found no reliable public information identifying him further. He is a different person from the Michael Reid who appears in other New Zealand public life; nothing in the record links them.",
+  "sources": []
+ },
  "m-sullivan": {
   "slug": "m-sullivan",
   "name": "Michael Grant Sullivan",
@@ -749,6 +1101,41 @@
    {
     "title": "Democracy Briefing: A property developers' government?",
     "url": "https://www.democracyproject.org.nz/p/democracy-briefing-a-property-developers"
+   }
+  ]
+ },
+ "m-todd": {
+  "slug": "m-todd",
+  "name": "Mark James Todd",
+  "kind": "person",
+  "summary": "Co-founder of Ockham Residential, an Auckland developer who funds Labour rather than the right.",
+  "background": "Todd founded Ockham Residential with Benjamin Preston in 2009, building apartment developments in Auckland with an explicit design and urbanist agenda. Ockham sponsors Objectspace and the Ockham New Zealand Book Awards. He gave Labour $50,000 in August 2023 — unusual on a register where property development money runs overwhelmingly to National and ACT.",
+  "stake": "A developer backing the party most associated with intensification and public housing investment, against the grain of his sector.",
+  "sources": [
+   {
+    "title": "Ockham Residential — The Democracy Project",
+    "url": "https://www.democracyproject.org.nz/p/ockham-residential"
+   },
+   {
+    "title": "Mark Todd: He's rich, opinionated and believes in doing good — NZ Herald / Listener",
+    "url": "https://www.nzherald.co.nz/the-listener/business/mark-todd-hes-rich-opinionated-and-believes-in-doing-good/BLHGP2WWUFF6RHBKG7BPNL5R2Q/"
+   }
+  ]
+ },
+ "m-townshend": {
+  "slug": "m-townshend",
+  "name": "Mark Townshend",
+  "kind": "person",
+  "summary": "Hauraki Plains dairy farmer who gives to National and ACT in matched pairs with Diane Townshend.",
+  "background": "The Townshends farm at Ngatea on the Hauraki Plains and appear on returns under both \"Townshend\" and \"Townsend\". Their donations arrive in identical pairs: $30,000 each to ACT in July 2026, $20,077.35 each to National that same month, and $30,000 and $20,150 respectively in 2023. Mark Townshend has been a prominent figure in the dairy industry.",
+  "register": {
+   "industry": "Dairy farming"
+  },
+  "stake": "Emissions pricing and freshwater rules for dairy.",
+  "sources": [
+   {
+    "title": "Donations exceeding $20,000 — Electoral Commission",
+    "url": "https://elections.nz/democracy-in-nz/political-parties-in-new-zealand/donations-exceeding-20000"
    }
   ]
  },
@@ -921,6 +1308,15 @@
    }
   ]
  },
+ "n-underdown": {
+  "slug": "n-underdown",
+  "name": "Neale Underdown",
+  "kind": "person",
+  "noPublicProfile": true,
+  "summary": "Gave ACT $100,000 in August 2023 from Lower Shotover, near Queenstown.",
+  "background": "Underdown appears in coverage only as one of the wealthy individuals funding ACT's 2023 campaign. Searches found no reliable detail about his business interests.",
+  "sources": []
+ },
  "nz-meat-workers-union": {
   "slug": "nz-meat-workers-union",
   "name": "NZ Meat Workers Union",
@@ -989,6 +1385,37 @@
    {
     "title": "OWENS PROPERTIES LIMITED — Companies Office register",
     "url": "https://app.companiesoffice.govt.nz/companies/app/ui/pages/companies/7696116"
+   }
+  ]
+ },
+ "p-carter": {
+  "slug": "p-carter",
+  "name": "Philip Maurice Carter",
+  "kind": "person",
+  "summary": "Christchurch property investor of the Carter Group, a long-standing National donor.",
+  "background": "Carter is a Christchurch property investor whose family business has been central to the city's post-earthquake rebuild. He gave National $50,000 in April 2023, part of around $59,500 that year.",
+  "stake": "Commercial property and urban development in Christchurch.",
+  "sources": [
+   {
+    "title": "Following the political money — The Democracy Project",
+    "url": "https://www.democracyproject.org.nz/p/following-the-political-money"
+   }
+  ]
+ },
+ "p-goodfellow": {
+  "slug": "p-goodfellow",
+  "name": "Peter John Goodfellow",
+  "kind": "person",
+  "summary": "National Party president from 2009 to 2022, still funding the party he used to run.",
+  "background": "Goodfellow led National's board through four elections before retiring as president in 2022. He comes from the Sanford fishing family and remains active in the party as Tāmaki electorate chair, appearing at candidate launches. He gave National $20,700 in May 2026, following around $30,000 the previous year.",
+  "sources": [
+   {
+    "title": "Ex-National Party president Peter Goodfellow makes $30,000 party donation — NZ Herald",
+    "url": "https://www.nzherald.co.nz/nz/politics/ex-national-party-president-peter-goodfellow-makes-30000-party-donation/QS5ZGYQ6Q5FF5KWYYOQ7APMV2U/"
+   },
+   {
+    "title": "Peter Goodfellow — Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Peter_Goodfellow_(politician)"
    }
   ]
  },
@@ -1221,6 +1648,55 @@
   ],
   "background": "Marty Verry and his late father Phil bought the Red Stag sawmill out of receivership in December 2003. The group now spans forestry, wood processing, prefabrication and cross-laminated timber, and bought the mass-timber business TimberLab from 64 years of McIntosh family ownership. Verry is a frequent public advocate for using more wood in construction, and for government procurement rules that favour it.",
   "stake": "Building-products standards, government procurement and carbon policy all bear on a timber processor. Verry campaigns publicly on exactly those settings."
+ },
+ "s-cameron": {
+  "slug": "s-cameron",
+  "name": "Suzy Amis Cameron and James Cameron",
+  "kind": "person",
+  "summary": "The Avatar director and his wife, Wairarapa farmers and Green Party donors.",
+  "background": "James Cameron, director of Titanic, Terminator and Avatar, and Suzy Amis Cameron, an actor and environmental campaigner, gained New Zealand residency in 2012 after buying two Wairarapa properties. They farm near Featherston, champion plant-based agriculture, and gave the Green Party $50,000 in June 2023.",
+  "stake": "Their public cause is sustainable food and climate; the donation matches it.",
+  "sources": [
+   {
+    "title": "Hollywood director James Cameron donates to Greens — Newstalk ZB",
+    "url": "https://newstalkzb.co.nz/news/politics/hollywood-director-james-cameron-donates-to-greens-as-party-surges-ahead-of-labour"
+   },
+   {
+    "title": "Suzy Amis Cameron — Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Suzy_Amis_Cameron"
+   }
+  ]
+ },
+ "s-greenlees": {
+  "slug": "s-greenlees",
+  "name": "Shayne Greenlees",
+  "kind": "person",
+  "summary": "Gives to ACT and National in step with Craig Greenlees, from the same Whakamarama address.",
+  "background": "Shayne Greenlees appears on the register both individually and on joint returns with Craig Greenlees. The two file identical amounts to the same parties on the same dates, including $50,000 each to ACT in May 2026 and $50,000 each to National in May 2026.",
+  "sources": [
+   {
+    "title": "ACT Party annual return 2025 — Electoral Commission",
+    "url": "https://elections.nz/assets/Annual-Returns/2025/ACT-Annual-Return-2025.pdf"
+   }
+  ]
+ },
+ "s-west": {
+  "slug": "s-west",
+  "name": "Stephen West",
+  "kind": "person",
+  "summary": "Serato co-founder and one of the Greens' two largest individual backers in 2026.",
+  "background": "West co-founded Serato Audio Research, the Auckland DJ-software company, and gave the Green Party $100,000 in July 2026. His fellow Serato co-founder Alan Wilderland is the biggest donor to The Opportunities Party — two founders of the same company bankrolling two different parties in the same election. Green co-leader Marama Davidson said the party's wealthy donors had signed up to its wealth tax and environmental policies.",
+  "stake": "Gives to a party whose wealth-tax policy would apply to him.",
+  "sources": [
+   {
+    "title": "RNZ political donations tracker",
+    "url": "https://www.rnz.co.nz/news/politics/647946/rnz-political-donations-tracker-national-s-war-chest-climbs-by-dollar440-000"
+   },
+   {
+    "title": "Who's funding who in election year? — The Spinoff",
+    "url": "https://thespinoff.co.nz/politics/14-04-2026/whos-funding-who-in-election-year"
+   }
+  ]
  },
  "shaw-s-wire-ropes-ltd": {
   "slug": "shaw-s-wire-ropes-ltd",
@@ -1455,6 +1931,23 @@
    {
     "title": "National raised $10.4m in donations in 2023 — RNZ",
     "url": "https://www.rnz.co.nz/news/politics/515911/national-raised-10-point-4m-in-donations-in-2023"
+   }
+  ]
+ },
+ "w-norman": {
+  "slug": "w-norman",
+  "name": "Warwick and Averil Norman",
+  "kind": "person",
+  "summary": "Auckland couple who repeatedly gave $23,000 to Brian Tamaki's Freedoms New Zealand in 2023.",
+  "background": "The Normans made four donations of $23,000 each to Freedoms New Zealand during 2023, the party umbrella led by Destiny Church's Brian Tamaki alongside Hannah Tamaki's Vision NZ. They are better known publicly for winning an appeal against the Tūpuna Maunga Authority's plan to fell 345 exotic trees on Ōwairaka / Mt Albert.",
+  "sources": [
+   {
+    "title": "Freedoms New Zealand — Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Freedoms_New_Zealand"
+   },
+   {
+    "title": "Maunga trees safe — for now — Democracy Action",
+    "url": "https://www.democracyaction.org.nz/maunga_trees_safe_for_now"
    }
   ]
  },

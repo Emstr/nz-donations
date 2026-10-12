@@ -96,6 +96,9 @@ const ALIASES = new Map(
     "The Estate of Hugh Barr": "Estate of Hugh Barr",
     "Estate of Hugh Barr": "Estate of Hugh Barr",
     "J&G Ayling Partnership trading as Mahala Enterprises": "J&G Ayling Partnership",
+    // Same two Ngatea donors, spelled both ways across returns.
+    "Mark Townsend": "M Townshend",
+    "Diane Townsend": "D Townshend",
     // Separate legal entities are NOT merged here, even with common owners —
     // VDB Management Services and Van Den Brink Karaka stay distinct, and the
     // connection is drawn in the written profile instead.
