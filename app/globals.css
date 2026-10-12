@@ -1,0 +1,90 @@
+@import "tailwindcss";
+
+/* Palette: cool off-white paper, near-black ink, party hues carried from the
+   parties' own branding. Dark mode is stepped for a dark surface, not flipped. */
+:root {
+  --page: #f4f5f7;
+  --surface: #ffffff;
+  --ink: #0f1419;
+  --ink-2: #4c5663;
+  --ink-3: #7b8694;
+  --hair: #e2e5ea;
+  --rule: #c9cfd8;
+  --focus: #1f6feb;
+
+  --p-national: #00529f;
+  --p-act: #c98a00;
+  --p-labour: #d3281e;
+  --p-green: #0b7a37;
+  --p-nzfirst: #2d3640;
+  --p-tpm: #8b1a4a;
+  --p-top: #0f8e85;
+  --p-other: #6b5bb5;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --page: #0d1116;
+    --surface: #141920;
+    --ink: #eef1f5;
+    --ink-2: #aeb8c4;
+    --ink-3: #7e8994;
+    --hair: #232a33;
+    --rule: #39424d;
+    --focus: #5a9bff;
+    color-scheme: dark;
+
+    --p-national: #4a9ae8;
+    --p-act: #e8b22e;
+    --p-labour: #ef5a4e;
+    --p-green: #35b964;
+    --p-nzfirst: #c2cbd6;
+    --p-tpm: #e06b97;
+    --p-top: #2dc0b4;
+    --p-other: #9b8ce8;
+  }
+}
+
+@theme inline {
+  --color-page: var(--page);
+  --color-surface: var(--surface);
+  --color-ink: var(--ink);
+  --color-ink-2: var(--ink-2);
+  --color-ink-3: var(--ink-3);
+  --color-hair: var(--hair);
+  --color-rule: var(--rule);
+  --font-display: var(--font-archivo), "Helvetica Neue", Arial, sans-serif;
+  --font-sans: var(--font-plex), system-ui, -apple-system, sans-serif;
+}
+
+body {
+  background: var(--page);
+  color: var(--ink);
+  font-family: var(--font-sans);
+  -webkit-font-smoothing: antialiased;
+}
+
+h1,
+h2,
+h3 {
+  font-family: var(--font-display);
+  text-wrap: balance;
+}
+
+:focus-visible {
+  outline: 2px solid var(--focus);
+  outline-offset: 2px;
+}
+
+.tnum {
+  font-variant-numeric: tabular-nums;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  *,
+  *::before,
+  *::after {
+    transition-duration: 0.01ms !important;
+    animation-duration: 0.01ms !important;
+  }
+}
