@@ -22,6 +22,71 @@
   ],
   "background": "Formerly 3eyes Homes Limited."
  },
+ "a-kelly": {
+  "slug": "a-kelly",
+  "name": "Andrew Kelly",
+  "kind": "person",
+  "noPublicProfile": true,
+  "summary": "Gave National $25,000 in June 2023, filing from Matua, Tauranga.",
+  "background": "Searches found no reliable public information about this donor beyond the Commission's return.",
+  "sources": []
+ },
+ "a-krukziener": {
+  "slug": "a-krukziener",
+  "name": "Andrew Krukziener",
+  "kind": "person",
+  "summary": "The developer behind Auckland's Metropolis tower, who gave National $22,000 in 2023.",
+  "background": "Krukziener built the Metropolis, the Queen Street tower that defined 1990s Auckland development, and remains a commercial landlord through Krukziener Properties. He was bankrupted after surrendering to a $6 million Inland Revenue application, and later sought approval to manage a family trust.",
+  "register": {
+   "industry": "Commercial property"
+  },
+  "sources": [
+   {
+    "title": "Andrew Krukziener bankrupt — NZ Herald",
+    "url": "https://www.nzherald.co.nz/business/andrew-krukziener-bankrupt/URHO2XJGLXMSNXSFUPX3TWMNVM/"
+   },
+   {
+    "title": "Political Roundup: Who is funding National to victory? — The Democracy Project",
+    "url": "https://www.democracyproject.org.nz/p/political-roundup-who-is-funding"
+   }
+  ]
+ },
+ "a-maloney": {
+  "slug": "a-maloney",
+  "name": "Anne Maloney",
+  "kind": "person",
+  "noPublicProfile": true,
+  "summary": "Gave Labour $20,130 in July 2026, filing from Havelock North.",
+  "background": "Searches found no reliable public information about this donor beyond the Commission's return.",
+  "sources": []
+ },
+ "a-ritchie": {
+  "slug": "a-ritchie",
+  "name": "A J Ritchie",
+  "kind": "person",
+  "summary": "Andrew Ritchie, transport and quarrying businessman, who gives both personally and through AJR Finance.",
+  "background": "Ritchie has more than thirty years in transport and tourism, is sole director of the AJR group and a shareholder in Kings Quarry, and is president of the Swanson RSA. Reporting puts his giving — personally and through companies he directs — at about $110,500 to National and NZ First. He gave NZ First $50,000 in July 2026, and AJR Finance gave $50,000 in May 2023.",
+  "stake": "RNZ identified around $1 million in political donations from entities linked to fast-track consenting applications; quarrying interests sit directly under that regime.",
+  "sources": [
+   {
+    "title": "$1m in political donations from entities linked to fast track applications revealed — RNZ",
+    "url": "https://www.rnz.co.nz/news/political/596301/1m-in-political-donations-from-entities-linked-to-fast-track-applications-revealed"
+   },
+   {
+    "title": "Democracy Briefing: The fast-track investors",
+    "url": "https://www.democracyproject.org.nz/p/democracy-briefing-the-fast-track"
+   }
+  ]
+ },
+ "a-tallott": {
+  "slug": "a-tallott",
+  "name": "Anthony Tallott",
+  "kind": "person",
+  "noPublicProfile": true,
+  "summary": "Gave NewZeal $27,000 in September 2023, filing from Auckland.",
+  "background": "Searches found no reliable public information about this donor beyond the Commission's return.",
+  "sources": []
+ },
  "a-wilderland": {
   "slug": "a-wilderland",
   "name": "Alan Wilderland",
@@ -67,7 +132,7 @@
   "slug": "ajr-finance-ltd",
   "name": "AJR Finance Ltd",
   "kind": "company",
-  "summary": "Incorporated 03 Mar 2022. Andrew John Ritchie holds 100.00% of the shares.",
+  "summary": "Andrew Ritchie's finance company, which gave NZ First $50,000 in May 2023.",
   "register": {
    "nzbn": "9429050345342",
    "incorporated": "03 Mar 2022",
@@ -82,8 +147,13 @@
    {
     "title": "AJR FINANCE LIMITED — Companies Office register",
     "url": "https://app.companiesoffice.govt.nz/companies/app/ui/pages/companies/8314365"
+   },
+   {
+    "title": "$1m in political donations from entities linked to fast track applications revealed — RNZ",
+    "url": "https://www.rnz.co.nz/news/political/596301/1m-in-political-donations-from-entities-linked-to-fast-track-applications-revealed"
    }
-  ]
+  ],
+  "background": "AJR Finance is wholly owned and solely directed by Andrew John Ritchie, who also gives in his own name. Entities he is linked to have been identified in reporting on donations from companies with fast-track consenting applications."
  },
  "ake-mana-energy-ltd": {
   "slug": "ake-mana-energy-ltd",
@@ -317,6 +387,20 @@
    }
   ]
  },
+ "b-harris": {
+  "slug": "b-harris",
+  "name": "Estate of Betty Harris",
+  "kind": "estate",
+  "noPublicProfile": false,
+  "summary": "A $100,000 bequest to the Green Party, administered by Public Trust in Whangārei.",
+  "background": "The estate gave the Greens $100,000 in May 2023, filed care of Public Trust. It is one of three estates on this register — with Hugh Barr's to NZ First and Murray Jones's to Labour — showing how often large political gifts arrive by will rather than from living donors.",
+  "sources": [
+   {
+    "title": "Green Party donors — PublicData NZ",
+    "url": "https://publicdata.co.nz/party/green"
+   }
+  ]
+ },
  "b-lindsay": {
   "slug": "b-lindsay",
   "name": "Sir Brendan and Lady Jo Lindsay",
@@ -387,6 +471,37 @@
    }
   ]
  },
+ "buen-holdings-ltd": {
+  "slug": "buen-holdings-ltd",
+  "name": "Buen Holdings Ltd",
+  "kind": "company",
+  "summary": "National took $200,000 from this company in July 2023 and gave it back the day after a Newsroom investigation.",
+  "background": "Newsroom reported that a company controlled by Buen Holdings' owners was under investigation over conditions at a crowded migrant hostel in east Auckland, rented to immigrant workers. National returned the $200,000 on 23 August 2023, the day after the story ran. It would have been one of the largest single donations of the cycle; it is excluded from every total on this site and flagged in the listing.",
+  "stake": "The clearest case on this register of a party deciding, after publicity, that money was not worth keeping.",
+  "sources": [
+   {
+    "title": "National returned $200,000 donation day after Newsroom story — Newsroom",
+    "url": "https://newsroom.co.nz/2024/05/03/national-returned-200000-donation-day-after-newsroom-story/"
+   },
+   {
+    "title": "From Hotchin to Atlas: a cautionary tale for corporates mulling a political donation — Newsroom",
+    "url": "https://newsroom.co.nz/2025/05/06/from-hotchin-to-atlas-a-cautionary-tale-for-corporates-mulling-a-political-donation/"
+   }
+  ]
+ },
+ "c-adams": {
+  "slug": "c-adams",
+  "name": "Cheryl Adams",
+  "kind": "person",
+  "summary": "Gave National $29,000 in August 2023, from the same Bethlehem address as Sir Paul Adams.",
+  "background": "Cheryl Adams is known publicly alongside Sir Paul Adams for philanthropic support of Bay of Plenty sporting organisations. Her donation was filed from the Bethlehem address that also appears on his returns.",
+  "sources": [
+   {
+    "title": "Sir Paul Adams' contribution to community recognised — Bay of Plenty Business News",
+    "url": "https://bopbusinessnews.co.nz/news/sir-paul-adams-contribution-to-community-recognised/"
+   }
+  ]
+ },
  "c-armer": {
   "slug": "c-armer",
   "name": "Colin and Dale Armer",
@@ -408,6 +523,19 @@
    }
   ]
  },
+ "c-elliott": {
+  "slug": "c-elliott",
+  "name": "Claudia Elliott",
+  "kind": "person",
+  "summary": "An Auckland lawyer and one of Labour's largest individual donors in the 2026 cycle.",
+  "background": "Elliott gave Labour $60,000 in April 2026, reported at the time as the party's biggest election-year donation so far.",
+  "sources": [
+   {
+    "title": "Labour receives biggest election year donation so far but trails Govt parties — NZ Herald",
+    "url": "https://www.nzherald.co.nz/nz/labour-receives-biggest-election-year-donation-so-far-but-trails-govt-parties/CFVSGSASKRG6NEQD4NO6WEFW2M/"
+   }
+  ]
+ },
  "c-greenlees": {
   "slug": "c-greenlees",
   "name": "Craig & Shayne Greenlees",
@@ -423,6 +551,28 @@
    {
     "title": "National Party annual return 2025 — Electoral Commission",
     "url": "https://elections.nz/assets/Annual-Returns/2025/National-Annual-Return-2025.pdf"
+   }
+  ]
+ },
+ "c-hakaraia": {
+  "slug": "c-hakaraia",
+  "name": "Cheyne Huka Hakaraia",
+  "kind": "person",
+  "noPublicProfile": true,
+  "summary": "Gave Vision New Zealand $23,000 in July 2023, filing from Hastings.",
+  "background": "Vision NZ is Hannah Tamaki's party, registered as part of Brian Tamaki's Freedoms New Zealand umbrella. Searches found no reliable public information about this donor.",
+  "sources": []
+ },
+ "c-heatley": {
+  "slug": "c-heatley",
+  "name": "Craig Heatley",
+  "kind": "person",
+  "summary": "Sky Television's founder, giving in his own name as well as through Multum Corporation.",
+  "background": "Heatley set up Sky Network Television from a $1 personal investment and retained a 15% stake as it became one of New Zealand's largest companies. He was the youngest person on the NBR Rich List by 1986. He gave ACT $50,000 in June 2023 personally, and a further $150,000 through Multum Corporation, which he owns outright.",
+  "sources": [
+   {
+    "title": "Craig Heatley — Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Craig_Heatley"
    }
   ]
  },
@@ -469,6 +619,19 @@
    }
   ]
  },
+ "c-parkin": {
+  "slug": "c-parkin",
+  "name": "Christopher Parkin",
+  "kind": "person",
+  "summary": "Owner of Wellington's Museum Hotel and a former ACT branch chairman, now giving to National.",
+  "background": "Parkin took over the Museum Hotel in 1990 and bought the building from the government in 1992, later moving it bodily across Cable Street in a well-known piece of Wellington engineering. He was an ACT branch chairman in 1994 and an arts patron. He gave National $20,500 in August 2023.",
+  "sources": [
+   {
+    "title": "Chris Parkin — Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Chris_Parkin"
+   }
+  ]
+ },
  "c-reeve": {
   "slug": "c-reeve",
   "name": "Christopher Reeve",
@@ -483,6 +646,19 @@
    {
     "title": "ACT New Zealand donations — OpenBrief",
     "url": "https://openbrief.co.nz/orgs/45538/donations"
+   }
+  ]
+ },
+ "cambrian-trust": {
+  "slug": "cambrian-trust",
+  "name": "Cambrian Trust",
+  "kind": "trust",
+  "summary": "A trust that gave ACT $50,000 in July 2023, filed via its trustee Philip Thornton.",
+  "background": "The donation was made through Cambrian Trustee Limited, in which Philip Thornton holds half the shares, with the law firm Hesketh Henry as the contact address. Thornton gave ACT a further $50,000 personally in 2026.",
+  "sources": [
+   {
+    "title": "Philip Thornton / Cambrian Trustee Ltd donation return — Electoral Commission",
+    "url": "https://elections.nz/assets/Donation-returns/2023/Philip_Thornton_Cambrian-Trustee_Ltd_10_July_2023.pdf"
    }
   ]
  },
@@ -584,6 +760,15 @@
    }
   ]
  },
+ "d-muller": {
+  "slug": "d-muller",
+  "name": "Dave Muller",
+  "kind": "person",
+  "noPublicProfile": true,
+  "summary": "Gave NZ First $20,000 in 2023 and $30,000 in August 2023, filing from a Parnell business address.",
+  "background": "Searches found no reliable public information identifying this donor. He is not the former National Party leader Todd Muller, and nothing links him to that name.",
+  "sources": []
+ },
  "d-richwhite": {
   "slug": "d-richwhite",
   "name": "David Richwhite",
@@ -601,6 +786,15 @@
    }
   ]
  },
+ "d-silverman": {
+  "slug": "d-silverman",
+  "name": "David Silverman",
+  "kind": "person",
+  "noPublicProfile": true,
+  "summary": "Gave Labour $26,280 in July 2026, filing from Kelburn, Wellington.",
+  "background": "Searches found no reliable public information about this donor beyond the Commission's return.",
+  "sources": []
+ },
  "d-townshend": {
   "slug": "d-townshend",
   "name": "Diane Townshend",
@@ -613,6 +807,15 @@
     "url": "https://elections.nz/democracy-in-nz/political-parties-in-new-zealand/donations-exceeding-20000"
    }
   ]
+ },
+ "d-wills": {
+  "slug": "d-wills",
+  "name": "David Wills",
+  "kind": "person",
+  "noPublicProfile": true,
+  "summary": "Gave Labour $22,000 in August 2026, filing from Ponsonby, Auckland.",
+  "background": "Searches found no reliable public information about this donor beyond the Commission's return.",
+  "sources": []
  },
  "dairy-workers-union": {
   "slug": "dairy-workers-union",
@@ -685,6 +888,20 @@
    }
   ]
  },
+ "f-wyborn": {
+  "slug": "f-wyborn",
+  "name": "Frances Wyborn",
+  "kind": "person",
+  "noPublicProfile": false,
+  "summary": "Parnell company director who gave to both National and ACT, and shares a surname with NZ First's biggest 2023 donor.",
+  "background": "Frances Anne Wyborn is listed on the Companies Office register at the Takutai Street address in Parnell that appears on her donation returns, and is associated with several companies. She gave National $24,000 in September 2023 and ACT $25,000 in May 2026. Mark Wyborn, the Viaduct Harbour developer who gave NZ First $200,000, is a separate donor on this register; the returns do not state a relationship.",
+  "sources": [
+   {
+    "title": "ACT Party annual return 2023 — Electoral Commission",
+    "url": "https://elections.nz/assets/Annual-Returns/2023/ACT-Annual-Return-2023.pdf"
+   }
+  ]
+ },
  "foresta-nz-ltd": {
   "slug": "foresta-nz-ltd",
   "name": "Foresta (NZ) Ltd",
@@ -729,6 +946,33 @@
    }
   ]
  },
+ "g-harrison": {
+  "slug": "g-harrison",
+  "name": "Graeme Thomas Harrison",
+  "kind": "person",
+  "noPublicProfile": true,
+  "summary": "Gave $66,054 across 3 donations to National, filing from Methven.",
+  "background": "The returns show $22,000 to National in April 2023; $20,254 to National in June 2023; $23,800 to National in October 2023. Searches found no reliable public information about this donor beyond them.",
+  "sources": []
+ },
+ "g-hart": {
+  "slug": "g-hart",
+  "name": "Graeme Richard Hart",
+  "kind": "person",
+  "summary": "New Zealand's wealthiest person, giving in his own name as well as through Rank Group.",
+  "background": "Hart owns Rank Group outright — the register shows him holding 100% of its shares and sitting as a director since 1998 — and built his fortune on leveraged acquisitions of industrial businesses including Burns Philp, Carter Holt Harvey and Alcoa's packaging arm. His $100,000 to ACT in March 2023 sits alongside Rank Group's $1 million-plus across both cycles, making the Hart money the largest single source on this register by a wide margin.",
+  "wealth": "Net worth reported at around US$9.7 billion.",
+  "sources": [
+   {
+    "title": "Graeme Hart — Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Graeme_Hart"
+   },
+   {
+    "title": "Rank Group Limited — Companies Office register",
+    "url": "https://app.companiesoffice.govt.nz/companies/app/ui/pages/companies/921169"
+   }
+  ]
+ },
  "g-lane": {
   "slug": "g-lane",
   "name": "Gary Lane",
@@ -736,6 +980,15 @@
   "noPublicProfile": true,
   "summary": "An ACT donor who gave $50,000 in each cycle, with no public profile beyond the returns.",
   "background": "Lane gave ACT $50,000 in March 2023 and $50,000 in May 2026, filing from Herne Bay in Auckland. Searches found no reliable public information identifying him further.",
+  "sources": []
+ },
+ "g-payne": {
+  "slug": "g-payne",
+  "name": "Greg Payne",
+  "kind": "person",
+  "noPublicProfile": true,
+  "summary": "Gave Green $25,010 in June 2023, filing from Warkworth.",
+  "background": "Searches found no reliable public information about this donor beyond the Commission's return.",
   "sources": []
  },
  "gmp-environmental-ltd": {
@@ -780,6 +1033,50 @@
    }
   ]
  },
+ "graeme-edwards-for-beethoven-trust": {
+  "slug": "graeme-edwards-for-beethoven-trust",
+  "name": "Graeme Edwards for Beethoven Trust",
+  "kind": "trust",
+  "noPublicProfile": true,
+  "summary": "Gave ACT $50,000 in March 2023, filing from Parnell, Auckland.",
+  "background": "Searches found no reliable public information about this donor beyond the Commission's return.",
+  "sources": []
+ },
+ "gregory-j-and-paula-r-dickson": {
+  "slug": "gregory-j-and-paula-r-dickson",
+  "name": "Gregory J & Paula R Dickson",
+  "kind": "person",
+  "noPublicProfile": true,
+  "summary": "Gave $50,000 across 2 donations to National, filing from Mt Maunganui.",
+  "background": "The returns show $25,000 to National in April 2023; $25,000 to National in May 2023. Searches found no reliable public information about this donor beyond them.",
+  "sources": []
+ },
+ "h-edwards": {
+  "slug": "h-edwards",
+  "name": "Hamish Edwards",
+  "kind": "person",
+  "summary": "Gave ACT $25,000 in March 2026, filing from Oriental Bay in Wellington.",
+  "background": "Xero's co-founder Hamish Edwards is a Wellington accountant and investor who started the company with Rod Drury in 2006, and Xero's other co-founder Rod Drury has donated to ACT before. Nothing in the register or in reporting confirms that the donor and the Xero founder are the same person, so this profile does not assert it.",
+  "sources": [
+   {
+    "title": "Xero — The Integrity Institute",
+    "url": "https://theintegrityinstitute.substack.com/p/xero"
+   }
+  ]
+ },
+ "h-jones": {
+  "slug": "h-jones",
+  "name": "Hugh Ross Jones",
+  "kind": "person",
+  "summary": "Auckland aviation businessman and company director; gave National $100,000 in July 2023.",
+  "background": "Jones is an Auckland-based aviation businessman and company director. Reporting on the 2023 cycle put his total giving to National at around $150,000.",
+  "sources": [
+   {
+    "title": "Political Roundup: Who is funding National to victory? — The Democracy Project",
+    "url": "https://www.democracyproject.org.nz/p/political-roundup-who-is-funding"
+   }
+  ]
+ },
  "hud-studio-ltd": {
   "slug": "hud-studio-ltd",
   "name": "Hud Studio Ltd",
@@ -805,6 +1102,23 @@
    }
   ],
   "background": "Formerly C & Z Tech Limited, Yerite.Com Limited."
+ },
+ "i-kuperus": {
+  "slug": "i-kuperus",
+  "name": "Ian Kuperus",
+  "kind": "person",
+  "summary": "The accountant who invented tax pooling in New Zealand, and gives his company's profits away.",
+  "background": "Kuperus founded Tax Management New Zealand in 2003, pioneering tax pooling here. In 2020 he and his wife Wendy committed 100% of the company's profits to the Whakatupu Aotearoa Foundation, which funds environmental and social causes. He gave The Opportunities Party $50,000 in May 2026 from Waiheke Island.",
+  "sources": [
+   {
+    "title": "Whakatupu Aotearoa Foundation — our people",
+    "url": "https://whakatupuaotearoa.org.nz/our-people"
+   },
+   {
+    "title": "Ian Kuperus — Primary Health Initiative",
+    "url": "https://www.phi.org.nz/ian-kuperus"
+   }
+  ]
  },
  "i-little": {
   "slug": "i-little",
@@ -847,6 +1161,42 @@
    }
   ]
  },
+ "j-and-g-ayling-partnership": {
+  "slug": "j-and-g-ayling-partnership",
+  "name": "J&G Ayling Partnership trading as Mahala Enterprises",
+  "kind": "company",
+  "noPublicProfile": true,
+  "summary": "Gave $67,500 across 2 donations to ACT, filing from Carterton.",
+  "background": "The returns show $32,500 to ACT in April 2026; $35,000 to ACT in August 2026. Searches found no reliable public information about this donor beyond them.",
+  "sources": []
+ },
+ "j-bayley": {
+  "slug": "j-bayley",
+  "name": "John Bayley",
+  "kind": "person",
+  "noPublicProfile": true,
+  "summary": "Gave NZ First $50,000 in April 2023, filing from Parnell, Auckland.",
+  "background": "Searches found no reliable public information about this donor beyond the Commission's return.",
+  "sources": []
+ },
+ "j-cooper": {
+  "slug": "j-cooper",
+  "name": "Jeremy Cooper",
+  "kind": "person",
+  "noPublicProfile": true,
+  "summary": "Gave ACT $22,121 in July 2026, filing from St Heliers, Auckland.",
+  "background": "Searches found no reliable public information about this donor beyond the Commission's return.",
+  "sources": []
+ },
+ "j-don": {
+  "slug": "j-don",
+  "name": "Estate of Julie Don",
+  "kind": "estate",
+  "noPublicProfile": true,
+  "summary": "Gave National $32,000 in April 2026, filing from Wellington.",
+  "background": "Searches found no reliable public information about this donor beyond the Commission's return.",
+  "sources": []
+ },
  "j-douglas": {
   "slug": "j-douglas",
   "name": "Jeffrey Graeme Douglas",
@@ -864,6 +1214,15 @@
     "url": "https://www.nbr.co.nz/nbr-rich-list/featured-rich-listers-douglas-family/"
    }
   ]
+ },
+ "j-garing": {
+  "slug": "j-garing",
+  "name": "Jillian Sandra Garing",
+  "kind": "person",
+  "noPublicProfile": true,
+  "summary": "Gave National $29,000 in 2023 and NZ First $23,000 in 2026, from central Auckland.",
+  "background": "Garing also appears in NZ First's annual returns for smaller amounts. Searches found no reliable public information identifying her beyond the donation records.",
+  "sources": []
  },
  "j-gibbs": {
   "slug": "j-gibbs",
@@ -883,6 +1242,24 @@
    }
   ]
  },
+ "j-harrison": {
+  "slug": "j-harrison",
+  "name": "John Harrison",
+  "kind": "person",
+  "noPublicProfile": true,
+  "summary": "Gave ACT $100,000 in May 2026, filing from Hospital Hill, Napier.",
+  "background": "Searches found no reliable public information about this donor beyond the Commission's return.",
+  "sources": []
+ },
+ "j-lindsay": {
+  "slug": "j-lindsay",
+  "name": "Jocelyn E A Lindsay",
+  "kind": "person",
+  "noPublicProfile": true,
+  "summary": "Gave National $50,000 in June 2023, filing from Remuera, Auckland.",
+  "background": "Searches found no reliable public information about this donor beyond the Commission's return.",
+  "sources": []
+ },
  "j-marcroft": {
   "slug": "j-marcroft",
   "name": "Jennifer Marcroft",
@@ -898,6 +1275,28 @@
    {
     "title": "Jenny Marcroft — Beehive biography",
     "url": "https://www.beehive.govt.nz/minister/biography/jenny-marcroft"
+   }
+  ]
+ },
+ "j-reynolds": {
+  "slug": "j-reynolds",
+  "name": "John Reynolds",
+  "kind": "person",
+  "noPublicProfile": true,
+  "summary": "Gave Labour $20,500 in July 2023, filing from Grey Lynn, Auckland.",
+  "background": "Searches found no reliable public information about this donor beyond the Commission's return.",
+  "sources": []
+ },
+ "j-schick": {
+  "slug": "j-schick",
+  "name": "Jonathan Edward Schick",
+  "kind": "person",
+  "summary": "Part of the Cambridge Schick family behind Windsor Park Stud and Shaw's Wire Ropes; gave National $55,000.",
+  "background": "Jonathon Edward Schick is a director and shareholder of Shaw's Wire Ropes, the Cambridge company owned by the Schick family, who also own Windsor Park Stud. He gave National $55,000 in August 2023.",
+  "sources": [
+   {
+    "title": "Shaw's Wire Ropes Limited — Companies Office",
+    "url": "https://app.companiesoffice.govt.nz/companies/app/ui/pages/companies/1045874"
    }
   ]
  },
@@ -949,6 +1348,24 @@
    }
   ]
  },
+ "k-van-randow": {
+  "slug": "k-van-randow",
+  "name": "Karl van Randow",
+  "kind": "person",
+  "noPublicProfile": true,
+  "summary": "Gave Green $30,000 in October 2026, filing from Grey Lynn, Auckland.",
+  "background": "Searches found no reliable public information about this donor beyond the Commission's return.",
+  "sources": []
+ },
+ "l-cook": {
+  "slug": "l-cook",
+  "name": "Len Cook",
+  "kind": "person",
+  "noPublicProfile": true,
+  "summary": "Gave Labour $20,405 in September 2026, filing from Kelburn, Wellington.",
+  "background": "Searches found no reliable public information about this donor beyond the Commission's return.",
+  "sources": []
+ },
  "l-dotcom": {
   "slug": "l-dotcom",
   "name": "Liz Dotcom",
@@ -965,6 +1382,58 @@
     "url": "https://www.nzherald.co.nz/nz/kim-dotcoms-wife-liz-to-contest-outgoing-national-mp-chris-penks-kaipara-ki-mahurangi-seat/SSDOXM43CFHDBHB3WQGVCXK5KE/"
    }
   ]
+ },
+ "l-hagaman": {
+  "slug": "l-hagaman",
+  "name": "Lani Hagaman",
+  "kind": "person",
+  "summary": "Owner of the Scenic Hotel Group, a donor to both ACT and National.",
+  "background": "Hagaman runs the Scenic Hotel chain built by her late husband Earl Hagaman. The couple were at the centre of a defamation case against Labour leader Andrew Little over a donation to National and a Niue hotel contract. She gave ACT $20,175 in September 2023, having given the party $25,000 in 2013, and has also given National $50,000.",
+  "register": {
+   "industry": "Hotels"
+  },
+  "stake": "Tourism and hotel operations, exposed to immigration and visitor-levy settings.",
+  "sources": [
+   {
+    "title": "Of political sideswipes: Meet the Hagamans of Christchurch — Stuff",
+    "url": "https://www.stuff.co.nz/the-press/news/79425604/of-political-sideswipes-meet-the-hagamans-of-christchurch"
+   },
+   {
+    "title": "Political Roundup: Who is funding National to victory? — The Democracy Project",
+    "url": "https://www.democracyproject.org.nz/p/political-roundup-who-is-funding"
+   }
+  ]
+ },
+ "l-lockwood": {
+  "slug": "l-lockwood",
+  "name": "Luke Lockwood",
+  "kind": "person",
+  "noPublicProfile": true,
+  "summary": "Gave ACT $25,000 in June 2026, filing from Grey Lynn, Auckland.",
+  "background": "Searches found no reliable public information about this donor beyond the Commission's return.",
+  "sources": []
+ },
+ "l-norman": {
+  "slug": "l-norman",
+  "name": "Lance Norman",
+  "kind": "person",
+  "summary": "Te Pāti Māori's general secretary and a 2026 list candidate, who gave the party $74,000.",
+  "background": "Norman is general secretary of Te Pāti Māori and stood as a list candidate at the 2026 election. His $74,000 donation in July 2026 is the party's largest declared donation in the cycle — a party officer funding his own organisation, the same pattern as its president John Tamihere.",
+  "sources": [
+   {
+    "title": "All eyes on the Māori seats — Waatea News",
+    "url": "https://waateanews.com/2026/10/12/all-eyes-on-the-maori-seats-john-tamihere-defends-te-pati-maoris-high-stakes-election-strategy"
+   }
+  ]
+ },
+ "l-tapert": {
+  "slug": "l-tapert",
+  "name": "L F Tapert",
+  "kind": "person",
+  "noPublicProfile": true,
+  "summary": "Gave Green $50,000 in June 2023, filing from Mission Bay, Auckland.",
+  "background": "Searches found no reliable public information about this donor beyond the Commission's return.",
+  "sources": []
  },
  "little-umbrella-ltd": {
   "slug": "little-umbrella-ltd",
@@ -990,6 +1459,15 @@
     "url": "https://app.companiesoffice.govt.nz/companies/app/ui/pages/companies/7431656"
    }
   ]
+ },
+ "m-buhr": {
+  "slug": "m-buhr",
+  "name": "Martin Buhr",
+  "kind": "person",
+  "noPublicProfile": true,
+  "summary": "Gave Labour $22,640 in April 2026, filing from Manly, Whangaparaoa.",
+  "background": "Searches found no reliable public information about this donor beyond the Commission's return.",
+  "sources": []
  },
  "m-chandler": {
   "slug": "m-chandler",
@@ -1025,6 +1503,24 @@
    }
   ]
  },
+ "m-hey": {
+  "slug": "m-hey",
+  "name": "Morris Hey",
+  "kind": "person",
+  "noPublicProfile": true,
+  "summary": "Gave ACT $24,980 in March 2026, filing from Bell Block, New Plymouth.",
+  "background": "Searches found no reliable public information about this donor beyond the Commission's return.",
+  "sources": []
+ },
+ "m-johnson": {
+  "slug": "m-johnson",
+  "name": "Mike Johnson",
+  "kind": "person",
+  "noPublicProfile": true,
+  "summary": "Gave ACT $25,871 in September 2026, filing from Remuera, Auckland.",
+  "background": "Searches found no reliable public information about this donor beyond the Commission's return.",
+  "sources": []
+ },
  "m-jones": {
   "slug": "m-jones",
   "name": "Estate of Murray George Jones",
@@ -1042,6 +1538,15 @@
     "url": "https://cromwellnews.co.nz/2021/10/cromwell-lives-mountaineer-murray-jones/"
    }
   ]
+ },
+ "m-kearns": {
+  "slug": "m-kearns",
+  "name": "Marcus Kearns",
+  "kind": "person",
+  "noPublicProfile": true,
+  "summary": "Gave National $25,000 in July 2023, filing from Wattle Downs, Auckland.",
+  "background": "Searches found no reliable public information about this donor beyond the Commission's return.",
+  "sources": []
  },
  "m-lookman": {
   "slug": "m-lookman",
@@ -1077,6 +1582,24 @@
    }
   ]
  },
+ "m-o-brien": {
+  "slug": "m-o-brien",
+  "name": "Mary Theresa O'Brien",
+  "kind": "person",
+  "noPublicProfile": true,
+  "summary": "Gave Labour $22,333 in January 2026, filing from Beach Haven, Auckland.",
+  "background": "Searches found no reliable public information about this donor beyond the Commission's return.",
+  "sources": []
+ },
+ "m-o-connor": {
+  "slug": "m-o-connor",
+  "name": "Matthew O'Connor",
+  "kind": "person",
+  "noPublicProfile": true,
+  "summary": "Gave TOP $20,500 in May 2026, filing from Mission Bay, Auckland.",
+  "background": "Searches found no reliable public information about this donor beyond the Commission's return.",
+  "sources": []
+ },
  "m-reid": {
   "slug": "m-reid",
   "name": "Michael Reid",
@@ -1101,6 +1624,20 @@
    {
     "title": "Democracy Briefing: A property developers' government?",
     "url": "https://www.democracyproject.org.nz/p/democracy-briefing-a-property-developers"
+   }
+  ]
+ },
+ "m-thorburn": {
+  "slug": "m-thorburn",
+  "name": "Michael George Thorburn",
+  "kind": "person",
+  "noPublicProfile": false,
+  "summary": "Gave ACT $50,000 in March 2023, one of a cluster of large ACT donations filed that month.",
+  "background": "Thorburn's donation appears in ACT's 2023 annual return alongside a dozen other six-figure and $50,000 gifts recorded in the same week of March 2023 — the party's single biggest fundraising burst of that cycle. Searches found no further reliable public detail about him.",
+  "sources": [
+   {
+    "title": "ACT Party annual return 2023 — Electoral Commission",
+    "url": "https://elections.nz/assets/Annual-Returns/2023/ACT-Annual-Return-2023.pdf"
    }
   ]
  },
@@ -1139,6 +1676,27 @@
    }
   ]
  },
+ "m-turley": {
+  "slug": "m-turley",
+  "name": "Murray and Margaret Turley",
+  "kind": "person",
+  "summary": "South Canterbury cropping family behind Turley Farms, and shareholders in Dairy Holdings.",
+  "background": "Turley Farms runs about 2,930 hectares at Temuka, growing cereals, potatoes, onions, hybrid vegetable seeds and grass seed. Murray Turley has chaired a flour milling business and sits on the governance of Dairy Holdings, in which he and Margaret are shareholders — the same company the Armers, also donors here, largely own. The Turleys appear on the NBR List. They gave National $40,000 in July 2026.",
+  "register": {
+   "industry": "Arable farming and dairy"
+  },
+  "stake": "Water allocation, irrigation and emissions pricing in South Canterbury.",
+  "sources": [
+   {
+    "title": "Featured NBR Listers 2024: Turley family",
+    "url": "https://www.nbr.co.nz/featured-listers-2024/featured-nbr-listers-turley-family/"
+   },
+   {
+    "title": "Murray Turley — Syngenta Growth Awards",
+    "url": "https://www.syngenta.co.nz/growthawards/murray-turley"
+   }
+  ]
+ },
  "m-wyborn": {
   "slug": "m-wyborn",
   "name": "M J Wyborn",
@@ -1154,6 +1712,20 @@
    {
     "title": "Property industry tops political donations — RNZ",
     "url": "https://www.rnz.co.nz/news/national/499176/property-industry-tops-political-donations"
+   }
+  ]
+ },
+ "m-zeman": {
+  "slug": "m-zeman",
+  "name": "Mark Zeman",
+  "kind": "person",
+  "noPublicProfile": false,
+  "summary": "Gave the Green Party $21,250 in June 2023, filing from Titirangi.",
+  "background": "The Commission published Zeman's return in June 2023. Searches found no further reliable public detail about him.",
+  "sources": [
+   {
+    "title": "Mark Zeman donation return — Electoral Commission",
+    "url": "https://elections.nz/assets/Mark_Zeman_6_June_2023.pdf"
    }
   ]
  },
@@ -1308,6 +1880,27 @@
    }
   ]
  },
+ "n-schick": {
+  "slug": "n-schick",
+  "name": "Nelson Edward Schick",
+  "kind": "person",
+  "summary": "Owner of Windsor Park Stud and Shaw's Wire Ropes — a Cambridge family that gives through both people and companies.",
+  "background": "Nelson and Sue Schick have owned Windsor Park Stud at Cambridge since 1971, one of New Zealand's leading thoroughbred breeding operations, with son Rodney managing it. Nelson has also been a director of Shaw's Wire Ropes since 2000 and is its largest shareholder; that company gave National and NZ First $100,000 between them. His 2026 return was filed jointly with Susan Dorothy Schick, and Jonathon Edward Schick, also a shareholder in the wire rope business, gave National $55,000 separately in 2023.",
+  "register": {
+   "industry": "Thoroughbred breeding; wire rope manufacture"
+  },
+  "stake": "Racing industry funding is set by government, and NZ First in particular has championed it.",
+  "sources": [
+   {
+    "title": "Windsor Park Stud history",
+    "url": "https://www.windsorparkstud.co.nz/about-us"
+   },
+   {
+    "title": "Shaw's Wire Ropes Limited — Companies Office",
+    "url": "https://app.companiesoffice.govt.nz/companies/app/ui/pages/companies/1045874"
+   }
+  ]
+ },
  "n-underdown": {
   "slug": "n-underdown",
   "name": "Neale Underdown",
@@ -1364,6 +1957,15 @@
   ],
   "background": "Formerly Oregon Forestry (N.Z.) Limited."
  },
+ "ototoa-trust": {
+  "slug": "ototoa-trust",
+  "name": "Ototoa Trust",
+  "kind": "trust",
+  "noPublicProfile": true,
+  "summary": "Gave the NewZeal party $25,000 in September 2023, filed via Isaac Higham of South Head, Helensville.",
+  "background": "NewZeal was the party led by Alfred Ngaro at the 2023 election. Searches found no public information about the trust beyond the donation return.",
+  "sources": []
+ },
  "owens-properties-ltd": {
   "slug": "owens-properties-ltd",
   "name": "Owens Properties Ltd",
@@ -1388,6 +1990,36 @@
    }
   ]
  },
+ "p-adams": {
+  "slug": "p-adams",
+  "name": "Sir Paul Hunter Adams",
+  "kind": "person",
+  "summary": "Founder of Carrus Corporation, the Bay of Plenty's biggest land developer.",
+  "background": "Adams spent a decade in construction, became the largest player in the Bay of Plenty kiwifruit industry, then founded Carrus Corporation in 1990 and grew it into the region's biggest land developer, expanding to Hamilton, Rotorua, Taupō and Wellington. He was knighted for services to philanthropy, chairs Tauranga's Civic Amenities Group, helped bring the University of Waikato campus to the Tauranga CBD and funded the Adams Centre for High Performance. He gave National $21,320 in April 2026; Cheryl Adams, who shares the Bethlehem address, gave National $29,000 in 2023.",
+  "register": {
+   "industry": "Land development"
+  },
+  "stake": "Land development and subdivision consenting in a fast-growing region.",
+  "sources": [
+   {
+    "title": "Tauranga's Paul Adams made a knight — NZ Herald",
+    "url": "https://www.nzherald.co.nz/bay-of-plenty-times/news/queens-birthday-honours-taurangas-paul-adams-made-a-knight-in-queens-birthday-honours/M3IR2NBO36I3DFLKRMIZZKZHO4/"
+   },
+   {
+    "title": "Sir Paul Adams welcomed into NZ Business Hall of Fame — NZ Herald",
+    "url": "https://www.nzherald.co.nz/nz/sir-paul-adams-welcomed-into-nz-business-hall-of-fame-with-achievement-celebrated-by-peers/SOK3DYJA7NBDXF4HJ54Q6NBVSY/"
+   }
+  ]
+ },
+ "p-campbell": {
+  "slug": "p-campbell",
+  "name": "Penelope Campbell",
+  "kind": "person",
+  "noPublicProfile": true,
+  "summary": "Gave Green $21,500 in October 2026, filing from Ranui, Porirua.",
+  "background": "Searches found no reliable public information about this donor beyond the Commission's return.",
+  "sources": []
+ },
  "p-carter": {
   "slug": "p-carter",
   "name": "Philip Maurice Carter",
@@ -1401,6 +2033,24 @@
     "url": "https://www.democracyproject.org.nz/p/following-the-political-money"
    }
   ]
+ },
+ "p-doyle": {
+  "slug": "p-doyle",
+  "name": "Pauline Doyle",
+  "kind": "person",
+  "noPublicProfile": true,
+  "summary": "Gave Green $22,880 in June 2026, filing from Hospital Hill, Napier.",
+  "background": "Searches found no reliable public information about this donor beyond the Commission's return.",
+  "sources": []
+ },
+ "p-fierlinger": {
+  "slug": "p-fierlinger",
+  "name": "Philip Fierlinger",
+  "kind": "person",
+  "noPublicProfile": true,
+  "summary": "Gave Green $20,300 in June 2026, filing from Havelock North.",
+  "background": "Searches found no reliable public information about this donor beyond the Commission's return.",
+  "sources": []
  },
  "p-goodfellow": {
   "slug": "p-goodfellow",
@@ -1419,6 +2069,42 @@
    }
   ]
  },
+ "p-grimshaw": {
+  "slug": "p-grimshaw",
+  "name": "Paul Grimshaw",
+  "kind": "person",
+  "noPublicProfile": true,
+  "summary": "Gave Labour $22,495 in August 2026, filing from Remuera, Auckland.",
+  "background": "Searches found no reliable public information about this donor beyond the Commission's return.",
+  "sources": []
+ },
+ "p-harrison": {
+  "slug": "p-harrison",
+  "name": "P D Harrison",
+  "kind": "person",
+  "noPublicProfile": true,
+  "summary": "Gave NZ First $25,000 in August 2023, filing from Takapuna, Auckland.",
+  "background": "Searches found no reliable public information about this donor beyond the Commission's return.",
+  "sources": []
+ },
+ "p-hodgson": {
+  "slug": "p-hodgson",
+  "name": "Hon Pete Hodgson",
+  "kind": "person",
+  "noPublicProfile": true,
+  "summary": "Gave Labour $20,368 in September 2023, filing from Sawyers Bay, Port Chalmers.",
+  "background": "Searches found no reliable public information about this donor beyond the Commission's return.",
+  "sources": []
+ },
+ "p-menzies": {
+  "slug": "p-menzies",
+  "name": "Peter Menzies",
+  "kind": "person",
+  "noPublicProfile": true,
+  "summary": "Gave National $20,500 in May 2023, filing from Takapuna, Auckland.",
+  "background": "Searches found no reliable public information about this donor beyond the Commission's return.",
+  "sources": []
+ },
  "p-mills": {
   "slug": "p-mills",
   "name": "Phillip Mills",
@@ -1435,6 +2121,39 @@
    {
     "title": "Featured Lister: Philip and Jackie Mills — NBR",
     "url": "https://nbr.co.nz/featured-listers-2023/featured-lister-2023-philip-and-jackie-mills"
+   }
+  ]
+ },
+ "p-thompson": {
+  "slug": "p-thompson",
+  "name": "Peter John Thompson",
+  "kind": "person",
+  "summary": "Managing director of Barfoot & Thompson, Auckland's largest real estate agency.",
+  "background": "Thompson has led Barfoot & Thompson for more than a decade and was made a Companion of the New Zealand Order of Merit in the 2026 King's Birthday Honours, recognised for business and for charitable work with the Starship Foundation and Auckland Rugby. He gave National $22,012.50 in April 2026 — the same agency whose director Garth Barfoot has given to National for fifty years.",
+  "register": {
+   "industry": "Real estate"
+  },
+  "sources": [
+   {
+    "title": "King's Birthday Honours 2026: Barfoot and Thompson boss Peter Thompson made CNZM — NZ Herald",
+    "url": "https://www.nzherald.co.nz/property/kings-birthday-honours-2026-barfoot-and-thompson-boss-peter-thompson-made-a-companion-of-nz-order-of-merit/2GHOBI3PRVG5HAKVDCIOEHRZVQ/"
+   },
+   {
+    "title": "Peter Thompson, Managing Director — Barfoot & Thompson",
+    "url": "https://www.barfoot.co.nz/peter"
+   }
+  ]
+ },
+ "p-thornton": {
+  "slug": "p-thornton",
+  "name": "Philip Thornton",
+  "kind": "person",
+  "summary": "Coatesville company director who gives to ACT personally and as trustee of the Cambrian Trust.",
+  "background": "Philip James Thornton is a director of nine or more New Zealand companies including Cambrian Trustee Limited, in which he holds half the shares. He filed the Cambrian Trust's $50,000 donation to ACT in July 2023 through the law firm Hesketh Henry, and gave ACT another $50,000 in his own name in May 2026.",
+  "sources": [
+   {
+    "title": "Philip Thornton / Cambrian Trustee Ltd donation return — Electoral Commission",
+    "url": "https://elections.nz/assets/Donation-returns/2023/Philip_Thornton_Cambrian-Trustee_Ltd_10_July_2023.pdf"
    }
   ]
  },
@@ -1508,6 +2227,51 @@
    }
   ]
  },
+ "r-barclay": {
+  "slug": "r-barclay",
+  "name": "Robin Barclay",
+  "kind": "person",
+  "noPublicProfile": false,
+  "summary": "One of two Barclays at the same Warkworth address funding the Green Party.",
+  "background": "Robin Barclay gave the Greens $40,000 in September 2023, two days after Simon Barclay gave $24,000 from the same Ward Road address in Warkworth. Both continued to appear in the party's annual returns in later years. Beyond local business interests in the Warkworth area, searches found no further public detail.",
+  "sources": [
+   {
+    "title": "Green Party annual return 2025 — Electoral Commission",
+    "url": "https://elections.nz/assets/Annual-Returns/2025/Green-Party-Annual-Return-2025.pdf"
+   }
+  ]
+ },
+ "r-bhana": {
+  "slug": "r-bhana",
+  "name": "Raewyn Bhana",
+  "kind": "person",
+  "summary": "Vision NZ donor who is also a director of Aotearoa Media, itself a donor to Freedoms New Zealand.",
+  "background": "Bhana gave Vision New Zealand $25,000 in May 2023. The Companies Office lists her as a director and half-owner of Aotearoa Media Limited alongside Rongokino George Ngatai; that company gave Freedoms New Zealand $21,959.25 in July 2023. Vision NZ and Freedoms NZ are the Tamaki parties.",
+  "sources": [
+   {
+    "title": "Aotearoa Media Limited — Companies Office register",
+    "url": "https://app.companiesoffice.govt.nz/companies/app/ui/pages/companies/search?q=aotearoa+media"
+   }
+  ]
+ },
+ "r-cookson": {
+  "slug": "r-cookson",
+  "name": "Robert Cookson",
+  "kind": "person",
+  "noPublicProfile": true,
+  "summary": "Gave NZ First $29,000 in September 2026, filing from Springdale, RD Waitoa.",
+  "background": "Searches found no reliable public information about this donor beyond the Commission's return.",
+  "sources": []
+ },
+ "r-galloway": {
+  "slug": "r-galloway",
+  "name": "Ross Galloway",
+  "kind": "person",
+  "noPublicProfile": true,
+  "summary": "Gave Labour $22,040 in August 2026, filing from Remuera, Auckland.",
+  "background": "Searches found no reliable public information about this donor beyond the Commission's return.",
+  "sources": []
+ },
  "r-hubbard": {
   "slug": "r-hubbard",
   "name": "Richard John Hubbard",
@@ -1534,6 +2298,45 @@
   "summary": "The Greens' largest individual donor in the 2026 cycle, with no public profile beyond the returns.",
   "background": "Robert Morgan gave the Green Party $50,000 in July 2023, $57,000 in July 2026 and $52,000 in September 2026, the last amended in October. Searches turned up no reliable public information about him. He is not Gareth Morgan, the economist and TOP founder who also lives in Oriental Bay.",
   "sources": []
+ },
+ "r-nauhria": {
+  "slug": "r-nauhria",
+  "name": "Roshan Nauhria",
+  "kind": "person",
+  "summary": "Precast concrete manufacturer who founded his own party before returning to funding National.",
+  "background": "Nauhria is managing director of Nauhria Precast and Reinforcing, which runs a $55 million plant at Papakura. He has given to both Labour and National over the years, estimating his total at around $100,000, and in 2016 founded the New Zealand People's Party, an immigration-focused party, putting $260,000 into it across eighteen donations. He stood in Mt Roskill. He gave National $29,500 in October 2023.",
+  "register": {
+   "industry": "Precast concrete and construction materials"
+  },
+  "stake": "Construction materials demand follows public infrastructure spending and housing consents.",
+  "sources": [
+   {
+    "title": "Indian rich-listers side with National in 2023 donations — RNZ",
+    "url": "https://www.rnz.co.nz/news/indonz/523970/indian-rich-listers-side-with-national-in-2023-donations"
+   },
+   {
+    "title": "Roshan Nauhria chasing shock win in Roskill — NZ Herald",
+    "url": "https://www.nzherald.co.nz/nz/roshan-nauhria-chasing-shock-win-in-roskill/VYPPVFOPA3DN527PVT247QQLB4/"
+   }
+  ]
+ },
+ "r-smellie": {
+  "slug": "r-smellie",
+  "name": "Hon. Robert Smellie KC",
+  "kind": "person",
+  "summary": "A retired High Court judge who has given Labour more than half a million dollars, for religious reasons.",
+  "background": "Smellie, CNZM KC, sat on the High Court bench and has since become one of Labour's largest individual donors, contributing more than $550,000 since 2016 — including $100,000 in April 2022 and $50,000 in September 2023, given from a retirement village in St Heliers. He was raised in a National-supporting household and changed allegiance after meeting the defence lawyer and future Labour leader David Lange. He told the Herald that he sees socialism as far closer to the Gospel than free enterprise.",
+  "stake": "One of the few donors on this register who has publicly explained his giving in moral rather than commercial terms.",
+  "sources": [
+   {
+    "title": "'Socialism closer to Gospel than free enterprise': donor on why he gave $115k to Labour — NZ Herald",
+    "url": "https://www.nzherald.co.nz/nz/socialism-closer-to-gospel-than-free-enterprise-donor-on-why-he-gave-115k-to-labour/INIUSBNKQ4QKTBOMCSHMS3OL7Y/"
+   },
+   {
+    "title": "The former judge who is one of Labour's biggest donors — BusinessDesk",
+    "url": "https://businessdesk.co.nz/article/editors-picks/the-former-judge-who-is-one-of-labours-biggest-donors"
+   }
+  ]
  },
  "rail-and-maritime-transport-union": {
   "slug": "rail-and-maritime-transport-union",
@@ -1649,6 +2452,29 @@
   "background": "Marty Verry and his late father Phil bought the Red Stag sawmill out of receivership in December 2003. The group now spans forestry, wood processing, prefabrication and cross-laminated timber, and bought the mass-timber business TimberLab from 64 years of McIntosh family ownership. Verry is a frequent public advocate for using more wood in construction, and for government procurement rules that favour it.",
   "stake": "Building-products standards, government procurement and carbon policy all bear on a timber processor. Verry campaigns publicly on exactly those settings."
  },
+ "robert-jones-holdings-ltd": {
+  "slug": "robert-jones-holdings-ltd",
+  "name": "Robert Jones Holdings Ltd",
+  "kind": "company",
+  "noPublicProfile": true,
+  "summary": "Gave ACT $21,564 in June 2026, filing from Wellington.",
+  "background": "Searches found no reliable public information about this donor beyond the Commission's return.",
+  "sources": []
+ },
+ "s-barclay": {
+  "slug": "s-barclay",
+  "name": "Simon Barclay",
+  "kind": "person",
+  "noPublicProfile": false,
+  "summary": "Gave the Greens $24,000 in September 2023, from the same Warkworth address as Robin Barclay.",
+  "background": "Simon Patrick Barclay appears on the Companies Office register with Warkworth business interests. His donation and Robin Barclay's arrived within days of each other, and both appear again in the Greens' later annual returns.",
+  "sources": [
+   {
+    "title": "Green Party annual return 2025 — Electoral Commission",
+    "url": "https://elections.nz/assets/Annual-Returns/2025/Green-Party-Annual-Return-2025.pdf"
+   }
+  ]
+ },
  "s-cameron": {
   "slug": "s-cameron",
   "name": "Suzy Amis Cameron and James Cameron",
@@ -1667,6 +2493,15 @@
    }
   ]
  },
+ "s-dent": {
+  "slug": "s-dent",
+  "name": "Steve Dent",
+  "kind": "person",
+  "noPublicProfile": true,
+  "summary": "Gave DemocracyNZ $20,000 in February 2023, filing from Tirohanga, Lower Hutt.",
+  "background": "Searches found no reliable public information about this donor beyond the Commission's return.",
+  "sources": []
+ },
  "s-greenlees": {
   "slug": "s-greenlees",
   "name": "Shayne Greenlees",
@@ -1679,6 +2514,15 @@
     "url": "https://elections.nz/assets/Annual-Returns/2025/ACT-Annual-Return-2025.pdf"
    }
   ]
+ },
+ "s-owen": {
+  "slug": "s-owen",
+  "name": "Stephen Owen",
+  "kind": "person",
+  "noPublicProfile": true,
+  "summary": "Gave $75,000 across 2 donations to ACT, filing from Mission Bay, Auckland.",
+  "background": "The returns show $50,000 to ACT in June 2023; $25,000 to ACT in May 2026. Searches found no reliable public information about this donor beyond them.",
+  "sources": []
  },
  "s-west": {
   "slug": "s-west",
@@ -1702,7 +2546,7 @@
   "slug": "shaw-s-wire-ropes-ltd",
   "name": "Shaw's Wire Ropes Ltd",
   "kind": "company",
-  "summary": "Incorporated 29 Jun 2000. Shareholding is split between 3 parties.",
+  "summary": "Cambridge wire rope manufacturer owned by the Schick family, who also own Windsor Park Stud.",
   "register": {
    "nzbn": "9429037209377",
    "incorporated": "29 Jun 2000",
@@ -1718,15 +2562,37 @@
     "Nelson Edward Schick (45.00%)",
     "Jonathon Edward Schick (0.00%)",
     "Samuel Philip Seymour Linder (10.00%)"
-   ]
+   ],
+   "industry": "Wire rope manufacture"
   },
   "sources": [
    {
     "title": "SHAW'S WIRE ROPES LIMITED — Companies Office register",
     "url": "https://app.companiesoffice.govt.nz/companies/app/ui/pages/companies/1045874"
+   },
+   {
+    "title": "Shaw's Wire Ropes Limited — OpenCorporates",
+    "url": "https://opencorporates.com/companies/nz/1045874"
    }
   ],
-  "background": "Formerly John Shaw (NZ) Limited, Windsor Park Holdings Limited."
+  "background": "Formerly Windsor Park Holdings, the company is majority owned by Nelson Edward Schick with other Schick family members and Samuel Linder as shareholders. It gave NZ First $25,000 in April 2026 and National $75,000 in June 2026, while the Schicks also gave personally."
+ },
+ "stanley-howard-fund": {
+  "slug": "stanley-howard-fund",
+  "name": "Stanley Howard Fund",
+  "kind": "trust",
+  "summary": "The only large donation declared by the breakaway Te Tai Tokerau Party, given via Richard Allen.",
+  "background": "The fund gave Te Tai Tokerau Party $50,000 in September 2026, filed via Richard Allen. The party was launched in May 2026 by Mariameno Kapa-Kingi after she split from Te Pāti Māori, and this is its first and only donation over the threshold.",
+  "sources": [
+   {
+    "title": "Kapa-Kingi splits from Te Pāti Māori, launches new party — 1News",
+    "url": "https://www.1news.co.nz/2026/05/11/kapa-kingi-splits-from-te-pati-maori-launches-new-party/"
+   },
+   {
+    "title": "Political donations tracker — RNZ",
+    "url": "https://www.rnz.co.nz/news/politics/647946/political-donations-tracker-breakaway-te-tai-tokerau-party-gets-its-first-big-cheque"
+   }
+  ]
  },
  "stewart-capital-partners-ltd": {
   "slug": "stewart-capital-partners-ltd",
@@ -1817,6 +2683,24 @@
    }
   ]
  },
+ "t-summerfield": {
+  "slug": "t-summerfield",
+  "name": "Tracy Summerfield",
+  "kind": "person",
+  "noPublicProfile": true,
+  "summary": "Gave National $20,030 in March 2023, filing from West Melton.",
+  "background": "Searches found no reliable public information about this donor beyond the Commission's return.",
+  "sources": []
+ },
+ "t-van-den-brink": {
+  "slug": "t-van-den-brink",
+  "name": "Tony van den Brink",
+  "kind": "person",
+  "noPublicProfile": true,
+  "summary": "Gave National $20,100 in April 2026, filing from Karaka, Papakura.",
+  "background": "Searches found no reliable public information about this donor beyond the Commission's return.",
+  "sources": []
+ },
  "tiger-fintech-nz-ltd": {
   "slug": "tiger-fintech-nz-ltd",
   "name": "Tiger Fintech (NZ) Ltd",
@@ -1840,6 +2724,32 @@
    {
     "title": "TIGER FINTECH (NZ) LIMITED — Companies Office register",
     "url": "https://app.companiesoffice.govt.nz/companies/app/ui/pages/companies/8187510"
+   }
+  ]
+ },
+ "toorak-chambers-incorporated": {
+  "slug": "toorak-chambers-incorporated",
+  "name": "Toorak Chambers Incorporated",
+  "kind": "other",
+  "summary": "An incorporated society that gave National $34,000 in July 2026, filed care of a Hamilton law firm.",
+  "background": "The return gives the address of Mackrell Murcott, a Hamilton legal practice. As an incorporated society rather than a company, it does not appear on the Companies Office company register, and searches found no reporting on it.",
+  "noPublicProfile": true,
+  "sources": []
+ },
+ "v-weenink": {
+  "slug": "v-weenink",
+  "name": "Vanessa Weenink",
+  "kind": "person",
+  "summary": "National MP for Banks Peninsula, funding her own 2023 campaign — three years after backing Labour.",
+  "background": "Weenink is a general practitioner who was elected National MP for Banks Peninsula in 2023. She had publicly supported Labour's Duncan Webb days before the 2020 election, then switched parties between October 2020 and October 2021. Her $20,040 donation in March 2023 is a candidate funding her own run.",
+  "sources": [
+   {
+    "title": "Vanessa Weenink — Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Vanessa_Weenink"
+   },
+   {
+    "title": "One MP, One Pint: Vanessa Weenink on leaving Labour to become a blue blood — The Spinoff",
+    "url": "https://thespinoff.co.nz/politics/09-06-2026/one-mp-one-pint-vanessa-weenink-on-leaving-labour-to-become-a-blue-blood"
    }
   ]
  },
@@ -1916,6 +2826,32 @@
    }
   ]
  },
+ "vision-new-zealand": {
+  "slug": "vision-new-zealand",
+  "name": "Vision New Zealand",
+  "kind": "other",
+  "summary": "A political party donating to the umbrella party it had joined — Hannah Tamaki's Vision NZ funding Brian Tamaki's Freedoms NZ.",
+  "background": "Vision NZ, led by Hannah Tamaki and associated with Destiny Church, registered as a component party of Freedoms New Zealand after that umbrella was launched by Brian Tamaki in 2022. Its $66,302.75 transfer to Freedoms NZ in July 2023 was later amended and partly withdrawn, and appears on the register as a donation from one party to another rather than from an outside backer.",
+  "sources": [
+   {
+    "title": "Vision NZ — Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Vision_NZ"
+   },
+   {
+    "title": "Freedoms New Zealand — Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Freedoms_New_Zealand"
+   }
+  ]
+ },
+ "w-deihl": {
+  "slug": "w-deihl",
+  "name": "William James Deihl",
+  "kind": "person",
+  "noPublicProfile": true,
+  "summary": "Gave National $20,500 in September 2023, filing from Grey Lynn, Auckland.",
+  "background": "Searches found no reliable public information about this donor beyond the Commission's return.",
+  "sources": []
+ },
  "w-lewis": {
   "slug": "w-lewis",
   "name": "Warren Lewis",
@@ -1975,6 +2911,15 @@
    }
   ],
   "background": "Formerly Weft Industries Limited."
+ },
+ "west-reeve-family-trust": {
+  "slug": "west-reeve-family-trust",
+  "name": "West Reeve Family Trust",
+  "kind": "trust",
+  "noPublicProfile": true,
+  "summary": "Gave ACT $25,000 in June 2023, filing from St Heliers, Auckland.",
+  "background": "Searches found no reliable public information about this donor beyond the Commission's return.",
+  "sources": []
  },
  "williams-corporation-ltd": {
   "slug": "williams-corporation-ltd",
@@ -2071,5 +3016,27 @@
   ],
   "background": "Brooks started as a real estate agent at 14 and co-founded what became one of New Zealand's largest residential developers. He has been publicly associated with National before: he paid for an advertisement backing Christopher Luxon when Luxon left Air New Zealand, which the Electoral Commission said breached the rules because it was not authorised by the party, and he won a charity dinner with Simon Bridges at auction.",
   "stake": "Another developer on a register where property is the single largest donor sector."
+ },
+ "z-liu": {
+  "slug": "z-liu",
+  "name": "Zaili Liu",
+  "kind": "person",
+  "noPublicProfile": true,
+  "summary": "Gave National $24,000 in August 2026, filing from St Heliers, Auckland.",
+  "background": "Searches found no reliable public information about this donor beyond the Commission's return.",
+  "sources": []
+ },
+ "z-unkovich": {
+  "slug": "z-unkovich",
+  "name": "Z A Unkovich",
+  "kind": "person",
+  "summary": "NZ First returned his $50,000 eleven days after receiving it in August 2023.",
+  "background": "Zeljan Unkovich is a businessman and the brother of NZ First MP Tanya Unkovich. The party recorded the donation on 7 August 2023 and returned it on 18 August 2023. The amount is excluded from every total on this site and flagged in the listing.",
+  "sources": [
+   {
+    "title": "From Hotchin to Atlas: a cautionary tale for corporates mulling a political donation — Newsroom",
+    "url": "https://newsroom.co.nz/2025/05/06/from-hotchin-to-atlas-a-cautionary-tale-for-corporates-mulling-a-political-donation/"
+   }
+  ]
  }
 }

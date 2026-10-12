@@ -99,6 +99,8 @@ const ALIASES = new Map(
     // Same two Ngatea donors, spelled both ways across returns.
     "Mark Townsend": "M Townshend",
     "Diane Townsend": "D Townshend",
+    // A party donating to the umbrella it belongs to — not a person.
+    "Vision New Zealand": "Vision New Zealand",
     // Separate legal entities are NOT merged here, even with common owners —
     // VDB Management Services and Van Den Brink Karaka stay distinct, and the
     // connection is drawn in the written profile instead.

@@ -107,7 +107,10 @@ export function donorSummaries(): DonorSummary[] {
     }
   >();
 
-  for (const d of counted) {
+  // Every donor gets a page, including the two whose only donation the party
+  // gave back — their rows are still linked from the tables. Returned money
+  // is left out of the totals, not out of the record.
+  for (const d of donations) {
     const row =
       map.get(d.donorKey) ??
       {
@@ -122,11 +125,13 @@ export function donorSummaries(): DonorSummary[] {
         cycleSet: new Set<Cycle>(),
         localitySet: new Set<string>(),
       };
-    row.total += d.amount;
-    row.count += 1;
+    if (!d.returnedToDonor) {
+      row.total += d.amount;
+      row.count += 1;
+      row.partyMap.set(d.party, (row.partyMap.get(d.party) ?? 0) + d.amount);
+    }
     // Keep the fullest spelling the Commission has on file.
     if (d.donor.length > row.name.length) row.name = d.donor;
-    row.partyMap.set(d.party, (row.partyMap.get(d.party) ?? 0) + d.amount);
     row.cycleSet.add(d.cycle);
     if (d.locality) row.localitySet.add(d.locality);
     if (d.receivedByParty < row.first) row.first = d.receivedByParty;
