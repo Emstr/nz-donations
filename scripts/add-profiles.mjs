@@ -39,6 +39,24 @@ if (missingSource.length) {
 
 // Merge field by field, so a prose pass does not drop register facts added
 // earlier (and vice versa). Sources accumulate, de-duplicated by URL.
+// Guard against a written profile reintroducing what the parser strips: a
+// numbered street address, or a donor's street named as their address. A
+// landmark ("the Queen Street tower") is fine and deliberately not matched.
+const STREET_TYPES = "Road|Street|Avenue|Place|Drive|Crescent|Terrace|Lane|Quay|Parade|Close|Court";
+const ADDRESS_PATTERNS = [
+  new RegExp(`\\b\\d+[a-zA-Z]?\\s+[A-Z][a-z]+\\s+(${STREET_TYPES})\\b`),
+  new RegExp(`\\b[A-Z][a-z]+\\s+(${STREET_TYPES})\\s+address\\b`),
+];
+const leaks = Object.entries(incoming).flatMap(([slug, p]) => {
+  const text = JSON.stringify(p);
+  const hit = ADDRESS_PATTERNS.map((re) => text.match(re)?.[0]).find(Boolean);
+  return hit ? [`${slug}: "${hit}"`] : [];
+});
+if (leaks.length) {
+  console.error("Looks like a donor's street address — see EDITORIAL.md:\n  " + leaks.join("\n  "));
+  process.exit(1);
+}
+
 const merged = { ...existing };
 for (const [slug, profile] of Object.entries(incoming)) {
   const before = existing[slug] ?? {};
