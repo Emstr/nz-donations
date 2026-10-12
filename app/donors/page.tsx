@@ -11,7 +11,11 @@ export const metadata: Metadata = {
 
 export default function DonorsPage() {
   const donors = donorSummaries();
-  const researched = donors.filter((d) => d.profile && !d.profile.noPublicProfile).length;
+  const researched = donors.filter(
+    (d) => d.profile && !d.profile.noPublicProfile && !d.profile.notResearched,
+  ).length;
+  const searchedEmpty = donors.filter((d) => d.profile?.noPublicProfile).length;
+  const pending = donors.filter((d) => d.profile?.notResearched).length;
 
   return (
     <div className="pt-12 pb-4">
@@ -20,8 +24,10 @@ export default function DonorsPage() {
       </h1>
       <p className="mt-4 max-w-[62ch] text-[16px] text-ink-2">
         {donors.length} donors have given more than $20,000 in a single
-        donation since 2023. {researched} have a researched profile; the rest
-        are listed with what the Commission filed.
+        donation since 2023. {researched} have a researched profile;{" "}
+        {searchedEmpty} were searched for and turned up nothing reliable
+        beyond the returns, and say so.
+        {pending > 0 ? ` ${pending} have not been researched yet.` : ""}
       </p>
 
       <ul className="mt-10 divide-y divide-hair border-y border-hair">

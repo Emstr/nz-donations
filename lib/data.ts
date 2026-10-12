@@ -44,8 +44,10 @@ export type DonorProfile = {
   /** Why this donation might matter — policy exposure, contracts, regulation. */
   stake?: string;
   sources?: { title: string; url: string }[];
-  /** Set when research found nothing reliable, so the page says so honestly. */
+  /** Set when a donor was searched for and nothing reliable came back. */
   noPublicProfile?: boolean;
+  /** Set when no one has researched this donor yet — not the same claim. */
+  notResearched?: boolean;
 };
 
 const file = donationsFile as {

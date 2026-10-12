@@ -2,10 +2,11 @@
 /**
  * Write a baseline entry for every donor still without a profile.
  *
- * These donors were searched for and nothing reliable came back, so the page
- * says that rather than padding it out. The entry states only what the
- * Commission's own returns show. Research that later identifies a donor
- * overwrites the baseline through scripts/add-profiles.mjs.
+ * A baseline says only what the Commission's returns show, and marks the donor
+ * as not yet researched. It must never claim that a search was done and came
+ * back empty — that claim belongs only on a donor someone actually searched
+ * for, as `noPublicProfile`. Research overwrites the baseline through
+ * scripts/add-profiles.mjs.
  *
  * Usage: node scripts/baseline-profiles.mjs > /tmp/baseline.json
  */
@@ -67,12 +68,12 @@ for (const [slug, { name, rows }] of byDonor) {
     slug,
     name,
     kind,
-    noPublicProfile: true,
+    notResearched: true,
     summary,
     background:
       rows.length === 1
-        ? "Searches found no reliable public information about this donor beyond the Commission's return."
-        : `The returns show ${timeline}. Searches found no reliable public information about this donor beyond them.`,
+        ? "Not yet researched. What is on this page comes from the Commission's return alone."
+        : `The returns show ${timeline}. This donor has not been researched yet; the returns are all that is on this page so far.`,
   };
 }
 

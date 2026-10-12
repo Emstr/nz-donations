@@ -68,6 +68,11 @@ for (const [slug, profile] of Object.entries(incoming)) {
     sources: [...new Map(sources.map((s) => [s.url, s])).values()],
   };
   if (!Object.keys(merged[slug].register).length) delete merged[slug].register;
+  // A researched profile clears the "nobody has looked yet" flag, unless the
+  // incoming profile deliberately sets it again.
+  if (profile.notResearched === undefined && (profile.sources?.length || profile.noPublicProfile)) {
+    delete merged[slug].notResearched;
+  }
 }
 const sorted = Object.fromEntries(
   Object.keys(merged)

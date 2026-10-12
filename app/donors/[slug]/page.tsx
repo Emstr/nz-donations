@@ -77,6 +77,14 @@ export default async function DonorPage({ params }: PageProps<"/donors/[slug]">)
         </p>
       )}
 
+      {profile?.notResearched && (
+        <p className="mt-6 max-w-[64ch] rounded-xl border border-hair bg-surface p-4 text-[15px] text-ink-2">
+          No one has researched this donor yet. Everything below comes from the
+          Commission&rsquo;s returns. That is a gap, not a finding &mdash; it
+          does not mean there is nothing to find.
+        </p>
+      )}
+
       <TileGrid>
         <Tile
           label="Total declared"
