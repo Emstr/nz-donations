@@ -83,10 +83,31 @@ const ORG_WORDS =
   /\b(Ltd|Limited|Union|Trust|Party|Group|Corporation|Incorporated|Inc|Company|Partnership|Holdings|Investments|Estate|Fund|Media|Chambers|Stud|Capital|Fintech|Properties|Seed|Timber|Energy|Construction|Management|Developments|Freight|Concrete|Wire|Nationalist|Workers|Maritime|Dairy|Meat|Rail|E Tu)\b/i;
 const TITLES = /^(Sir|Dame|Lady|Hon\.?|Rt Hon\.?|Mr|Mrs|Ms|Dr)\s+/i;
 
+/**
+ * Organisations that filed under more than one name. People merge
+ * automatically on initial and surname; organisations need to be told.
+ */
+const ALIASES = new Map(
+  Object.entries({
+    "New Zealand Dairy Workers Union": "Dairy Workers Union",
+    "NZ Dairy Workers Union": "Dairy Workers Union",
+    "Rail & Maritime Transport Union of New Zealand": "Rail & Maritime Transport Union",
+    "Canterbury Nationalist Trust (Trustee Jim Gerard QSO)": "Canterbury Nationalist Trust",
+    "The Estate of Hugh Barr": "Estate of Hugh Barr",
+    "Estate of Hugh Barr": "Estate of Hugh Barr",
+    "J&G Ayling Partnership trading as Mahala Enterprises": "J&G Ayling Partnership",
+    // Separate legal entities are NOT merged here, even with common owners —
+    // VDB Management Services and Van Den Brink Karaka stay distinct, and the
+    // connection is drawn in the written profile instead.
+  }).map(([from, to]) => [from.toLowerCase(), to]),
+);
+
 /** Stable identity key, so "Nicholas Mowbray" and "Nicholas James Mowbray" merge. */
 const PARTICLES = new Set(["van", "von", "de", "der", "den", "du", "le", "la", "di", "da", "dos", "te"]);
 
 function donorKey(canon) {
+  const alias = ALIASES.get(canon.toLowerCase());
+  if (alias) return alias;
   let s = canon.replace(/^(The )?Estate of /i, "");
   s = s.replace(TITLES, "").replace(/\b(QC|QSO|KC)\b/g, "").trim();
   if (ORG_WORDS.test(s)) return s;

@@ -1,1 +1,1582 @@
-{}
+{
+ "3eyes-construction-ltd": {
+  "slug": "3eyes-construction-ltd",
+  "name": "3Eyes Construction Ltd",
+  "kind": "company",
+  "summary": "Incorporated 03 Mar 2011. Shareholding is split between 1 parties.",
+  "register": {
+   "nzbn": "9429031196857",
+   "incorporated": "03 Mar 2011",
+   "directors": [
+    "Shuang Li"
+   ],
+   "shareholders": [
+    "Perfect Match Investment Limited (49.90%)"
+   ]
+  },
+  "sources": [
+   {
+    "title": "3EYES CONSTRUCTION LIMITED — Companies Office register",
+    "url": "https://app.companiesoffice.govt.nz/companies/app/ui/pages/companies/3297228"
+   }
+  ],
+  "background": "Formerly 3eyes Homes Limited."
+ },
+ "adn-commercial-ltd": {
+  "slug": "adn-commercial-ltd",
+  "name": "ADN Commercial Ltd",
+  "kind": "company",
+  "summary": "Incorporated 31 Aug 2016. Sejb Trustees Limited holds 100.00% of the shares.",
+  "register": {
+   "nzbn": "9429042530855",
+   "incorporated": "31 Aug 2016",
+   "directors": [
+    "Sally Nicholson",
+    "Allan Nicholson"
+   ],
+   "shareholders": [
+    "Sejb Trustees Limited (100.00%)"
+   ]
+  },
+  "sources": [
+   {
+    "title": "ADN COMMERCIAL LIMITED — Companies Office register",
+    "url": "https://app.companiesoffice.govt.nz/companies/app/ui/pages/companies/6090858"
+   }
+  ]
+ },
+ "ajr-finance-ltd": {
+  "slug": "ajr-finance-ltd",
+  "name": "AJR Finance Ltd",
+  "kind": "company",
+  "summary": "Incorporated 03 Mar 2022. Andrew John Ritchie holds 100.00% of the shares.",
+  "register": {
+   "nzbn": "9429050345342",
+   "incorporated": "03 Mar 2022",
+   "directors": [
+    "Andrew John Ritchie"
+   ],
+   "shareholders": [
+    "Andrew John Ritchie (100.00%)"
+   ]
+  },
+  "sources": [
+   {
+    "title": "AJR FINANCE LIMITED — Companies Office register",
+    "url": "https://app.companiesoffice.govt.nz/companies/app/ui/pages/companies/8314365"
+   }
+  ]
+ },
+ "ake-mana-energy-ltd": {
+  "slug": "ake-mana-energy-ltd",
+  "name": "Ake Mana Energy Ltd",
+  "kind": "company",
+  "summary": "Incorporated 02 May 2025. Haihui Kuang holds 80.00% of the shares.",
+  "register": {
+   "nzbn": "9429052814266",
+   "incorporated": "02 May 2025",
+   "directors": [
+    "Haihui Kuang",
+    "Yue Niu",
+    "Siddhi Noah"
+   ],
+   "shareholders": [
+    "Haihui Kuang (80.00%)",
+    "Yue Niu (20.00%)"
+   ]
+  },
+  "sources": [
+   {
+    "title": "AKE MANA ENERGY LIMITED — Companies Office register",
+    "url": "https://app.companiesoffice.govt.nz/companies/app/ui/pages/companies/9339664"
+   }
+  ]
+ },
+ "alajamber-ltd": {
+  "slug": "alajamber-ltd",
+  "name": "Alajamber Ltd",
+  "kind": "company",
+  "summary": "Incorporated 30 Sep 2016. Alan James Wilderland holds 100.00% of the shares.",
+  "register": {
+   "nzbn": "9429043350445",
+   "incorporated": "30 Sep 2016",
+   "directors": [
+    "Alan James Wilderland"
+   ],
+   "shareholders": [
+    "Alan James Wilderland (100.00%)"
+   ]
+  },
+  "sources": [
+   {
+    "title": "ALAJAMBER LIMITED — Companies Office register",
+    "url": "https://app.companiesoffice.govt.nz/companies/app/ui/pages/companies/6118930"
+   }
+  ]
+ },
+ "alchemy-wealth-ltd": {
+  "slug": "alchemy-wealth-ltd",
+  "name": "Alchemy Wealth Ltd",
+  "kind": "company",
+  "summary": "Incorporated 16 Oct 2023. Avro Vulcan Trustee Company Limited holds 50.00% of the shares.",
+  "register": {
+   "nzbn": "9429051651039",
+   "incorporated": "16 Oct 2023",
+   "directors": [
+    "Selwyn Jap Loekman",
+    "Michael Gray Walker"
+   ],
+   "shareholders": [
+    "Avro Vulcan Trustee Company Limited (50.00%)",
+    "Sjl Business Trustee Company Limited (50.00%)"
+   ]
+  },
+  "sources": [
+   {
+    "title": "ALCHEMY WEALTH LIMITED — Companies Office register",
+    "url": "https://app.companiesoffice.govt.nz/companies/app/ui/pages/companies/8953208"
+   }
+  ]
+ },
+ "align-farm-investments-ltd": {
+  "slug": "align-farm-investments-ltd",
+  "name": "Align Farm Investments Ltd",
+  "kind": "company",
+  "summary": "Incorporated 14 Dec 2012. Align Holdings Limited holds 100.00% of the shares.",
+  "register": {
+   "nzbn": "9429030404403",
+   "incorporated": "14 Dec 2012",
+   "directors": [
+    "John Newey Buchanan",
+    "Robert James Cameron",
+    "Stephen George Reed"
+   ],
+   "shareholders": [
+    "Align Holdings Limited (100.00%)"
+   ]
+  },
+  "sources": [
+   {
+    "title": "ALIGN FARM INVESTMENTS LIMITED — Companies Office register",
+    "url": "https://app.companiesoffice.govt.nz/companies/app/ui/pages/companies/4173238"
+   }
+  ]
+ },
+ "amalgamated-workers-union-nz": {
+  "slug": "amalgamated-workers-union-nz",
+  "name": "Amalgamated Workers Union NZ",
+  "kind": "union",
+  "summary": "Gave $50,000 to Labour in August 2026.",
+  "background": "The Amalgamated Workers Union New Zealand covers workers in roading, infrastructure, forestry and local government contracting, largely outside the main cities.",
+  "stake": "Public infrastructure spending and contracting-out decisions determine its members' work.",
+  "sources": [
+   {
+    "title": "Donations exceeding $20,000 — Electoral Commission",
+    "url": "https://elections.nz/democracy-in-nz/political-parties-in-new-zealand/donations-exceeding-20000"
+   }
+  ]
+ },
+ "aotearoa-media-ltd": {
+  "slug": "aotearoa-media-ltd",
+  "name": "Aotearoa Media Ltd",
+  "kind": "company",
+  "summary": "Incorporated 24 Jan 2023. Rongokino George Ngatai holds 50.00% of the shares.",
+  "register": {
+   "nzbn": "9429051075170",
+   "incorporated": "24 Jan 2023",
+   "directors": [
+    "Raewyn Teresa Bhana",
+    "Rongokino George Ngatai"
+   ],
+   "shareholders": [
+    "Rongokino George Ngatai (50.00%)",
+    "Raewyn Teresa Bhana (50.00%)"
+   ]
+  },
+  "sources": [
+   {
+    "title": "AOTEAROA MEDIA LIMITED — Companies Office register",
+    "url": "https://app.companiesoffice.govt.nz/companies/app/ui/pages/companies/8559306"
+   }
+  ]
+ },
+ "ateco-group-nz-ltd": {
+  "slug": "ateco-group-nz-ltd",
+  "name": "Ateco Group NZ Ltd",
+  "kind": "company",
+  "summary": "Incorporated 16 Jan 2013. Balverona Pty Ltd holds 100.00% of the shares.",
+  "register": {
+   "nzbn": "9429030385061",
+   "incorporated": "16 Jan 2013",
+   "directors": [
+    "Neville Alexander Crichton",
+    "Pamela Jean Fauvel",
+    "Clyde Campbell"
+   ],
+   "shareholders": [
+    "Balverona Pty Ltd (100.00%)"
+   ]
+  },
+  "sources": [
+   {
+    "title": "ATECO GROUP NZ LIMITED — Companies Office register",
+    "url": "https://app.companiesoffice.govt.nz/companies/app/ui/pages/companies/4212860"
+   }
+  ],
+  "background": "Formerly Auto Distributors Asiapacific Limited, Cfnz Limited, Fiat Chrysler NZ Limited."
+ },
+ "atlas-concrete-ltd": {
+  "slug": "atlas-concrete-ltd",
+  "name": "Atlas Concrete Ltd",
+  "kind": "company",
+  "summary": "Incorporated 21 Aug 1992. Atlas Resources Limited holds 100.00% of the shares.",
+  "register": {
+   "nzbn": "9429038956324",
+   "incorporated": "21 Aug 1992",
+   "directors": [
+    "Graham Lloyd Collie",
+    "Stephen Collie",
+    "David Hugo Sixton",
+    "Melville Charles Collie",
+    "Clive Harris",
+    "Wayne Melville Collie"
+   ],
+   "shareholders": [
+    "Atlas Resources Limited (100.00%)"
+   ]
+  },
+  "sources": [
+   {
+    "title": "ATLAS CONCRETE LIMITED — Companies Office register",
+    "url": "https://app.companiesoffice.govt.nz/companies/app/ui/pages/companies/554905"
+   }
+  ]
+ },
+ "atom-data-nz-ltd": {
+  "slug": "atom-data-nz-ltd",
+  "name": "Atom Data NZ Ltd",
+  "kind": "company",
+  "summary": "Incorporated 10 Jun 2024. Jia Wang holds 100.00% of the shares.",
+  "register": {
+   "nzbn": "9429052130762",
+   "incorporated": "10 Jun 2024",
+   "directors": [
+    "Gongqi Li",
+    "Jia Wang",
+    "Martin Kwan Ting Mok"
+   ],
+   "shareholders": [
+    "Jia Wang (100.00%)"
+   ]
+  },
+  "sources": [
+   {
+    "title": "ATOM DATA NZ LIMITED — Companies Office register",
+    "url": "https://app.companiesoffice.govt.nz/companies/app/ui/pages/companies/9249560"
+   }
+  ]
+ },
+ "b-cartmell": {
+  "slug": "b-cartmell",
+  "name": "Brian Cartmell",
+  "kind": "person",
+  "summary": "Queenstown tech entrepreneur who spreads very large donations across NZ First, ACT, National and TOP at once.",
+  "background": "Cartmell moved to New Zealand in 2010 and gave up US citizenship in 2015. He made his money in internet businesses: a domain registry that ran the .cc country code for the Cocos Islands, and earlier work with the Internet Entertainment Group. He was an early Bitcoin investor and appears on the Companies Register as a director and shareholder of a range of New Zealand companies including PledgeMe and Yeastie Boys.",
+  "stake": "Unusual among large donors in backing four parties across the spectrum in the same cycle, including TOP. Reported total giving across parties has exceeded $700,000.",
+  "sources": [
+   {
+    "title": "Queenstown tech entrepreneur donates at least $500k to political parties — ODT / RNZ",
+    "url": "https://www.odt.co.nz/business/queenstown-tech-entrepreneur-donates-least-500k-political-parties-rnz"
+   },
+   {
+    "title": "Queenstown-based tech entrepreneur Brian Cartmell donating hundreds of thousands — Evening Report",
+    "url": "https://eveningreport.nz/2026/03/11/queenstown-based-tech-entrepreneur-brian-cartmell-donating-hundreds-of-thousands-to-political-parties/"
+   }
+  ]
+ },
+ "b-lindsay": {
+  "slug": "b-lindsay",
+  "name": "Sir Brendan and Lady Jo Lindsay",
+  "kind": "person",
+  "summary": "Founders of the plastics manufacturer Sistema, sold for $660 million in 2016, now full-time philanthropists and three-party donors.",
+  "background": "Brendan Lindsay built Sistema Plastics from an Auckland factory into an export business selling food storage containers worldwide, and sold it to Newell Brands for $660 million in late 2016. He and Jo Lindsay have given to National, ACT and NZ First in both cycles, typically $50,000 at a time to each. Donations associated with the Lindsay Trust also appear in the New Zealand First Foundation records from 2017.",
+  "sources": [
+   {
+    "title": "Featured NBR Listers 2024: Brendan and Jo Lindsay",
+    "url": "https://nbr.co.nz/featured-listers-2024/featured-nbr-listers-2024-brendan-and-jo-lindsay"
+   },
+   {
+    "title": "ACT donations surge, doubling in 20 days — ODT / RNZ",
+    "url": "https://www.odt.co.nz/news/national/donations-act-party-surge-doubling-20-days-rnz"
+   }
+  ]
+ },
+ "bayley-corporation-ltd": {
+  "slug": "bayley-corporation-ltd",
+  "name": "Bayley Corporation Ltd",
+  "kind": "company",
+  "summary": "Incorporated 21 Jul 1987. Shareholding is split between 17 parties.",
+  "register": {
+   "nzbn": "9429039615985",
+   "incorporated": "21 Jul 1987",
+   "directors": [
+    "David Graham Spencer Bayley",
+    "John Charles Spencer Bayley",
+    "Michael David Spencer Bayley",
+    "Angela Jennifer Bull",
+    "Nigel Geoffrey Ledgard Burton",
+    "Ross Andrew George",
+    "Mark Donal Macky",
+    "Kenneth Colin Macrae",
+    "John Hart",
+    "Ken Macrae",
+    "David Poole",
+    "Robert Jeffrey Davidson",
+    "Gary Ellison",
+    "Trevor Stanaway",
+    "Kerry Finnigan",
+    "Charles Ross Foreman"
+   ],
+   "shareholders": [
+    "Christine Belle Bayley (19.74%)",
+    "Direct Capital Holdings Limited (16.52%)",
+    "Barrie Brown (16.41%)",
+    "Michael Bayley & John Bayley & David Bayley (14.32%)",
+    "Bayley Share Custodian Limited (8.97%)",
+    "Mark Donal Macky (3.49%)",
+    "Whalan and Partners Limited (3.30%)",
+    "Mdm Investment Trustee Limited (3.19%)",
+    "David Graham Spencer Bayley (2.93%)",
+    "Ken Macrae (2.75%)",
+    "Gary Wallace (1.81%)",
+    "John Hart (1.61%)",
+    "Kirsten Jane Macky (1.61%)",
+    "Bayley Corporation Limited (1.45%)",
+    "Leanne Stacey Hourigan (0.82%)",
+    "Michael Scott Houlker (0.80%)",
+    "Danielle Mary Houlker (0.28%)"
+   ]
+  },
+  "sources": [
+   {
+    "title": "BAYLEY CORPORATION LIMITED — Companies Office register",
+    "url": "https://app.companiesoffice.govt.nz/companies/app/ui/pages/companies/342183"
+   }
+  ]
+ },
+ "c-meehan": {
+  "slug": "c-meehan",
+  "name": "Christopher & Michaela Meehan",
+  "kind": "person",
+  "summary": "Founders of the listed developer Winton Land, and among National's largest individual donors.",
+  "background": "Chris Meehan founded the Belle Property franchise in 1999 before he and his wife Michaela built Winton Land, a master-planned residential developer with projects including Northlake in Wānaka. Former National minister Steven Joyce joined the Winton board and later became chairman after Meehan resigned as chief executive and chair in 2025. Reporting puts the couple's giving to National, ACT and NZ First at about $213,000 between 2022 and 2025.",
+  "stake": "Winton has fought the Crown in court — a National frontbencher publicly backed the company in a $138 million case against a housing agency — and its consenting battles make planning law a direct commercial interest.",
+  "sources": [
+   {
+    "title": "Featured Listers: Chris and Michaela Meehan — NBR",
+    "url": "https://nbr.co.nz/featured-listers-2023/featured-listers-chris-and-michaela-meehan"
+   },
+   {
+    "title": "National frontbencher backs big party donor in $138m case against housing agency — Newsroom",
+    "url": "https://www.newsroom.co.nz/national-frontbencher-backs-big-party-donor-in-138m-case-against-housing-agency"
+   },
+   {
+    "title": "Winton Land Limited — The Integrity Institute",
+    "url": "https://theintegrityinstitute.substack.com/p/winton-land-limited"
+   }
+  ]
+ },
+ "cando-fishing-ltd": {
+  "slug": "cando-fishing-ltd",
+  "name": "Cando Fishing Ltd",
+  "kind": "company",
+  "summary": "Incorporated 27 Sep 2005. Shareholding is split between 1 parties.",
+  "register": {
+   "nzbn": "9429034516577",
+   "incorporated": "27 Sep 2005",
+   "directors": [
+    "Campbell David Mcmanaway",
+    "Vivien Joy Mcmanaway"
+   ],
+   "shareholders": [
+    "Campbell David Mcmanaway (1.00%)"
+   ]
+  },
+  "sources": [
+   {
+    "title": "CANDO FISHING LIMITED — Companies Office register",
+    "url": "https://app.companiesoffice.govt.nz/companies/app/ui/pages/companies/1702263"
+   }
+  ]
+ },
+ "canterbury-nationalist-trust": {
+  "slug": "canterbury-nationalist-trust",
+  "name": "Canterbury Nationalist Trust",
+  "kind": "trust",
+  "summary": "A National Party fundraising trust in North Canterbury, whose trustee is former National MP Jim Gerard.",
+  "background": "The trust is administered by Jim Gerard QSO, National's MP for Rangiora from 1984 to 1997 and before that the party's Rangiora electorate chair for eight years. It gave National $30,000 in March 2026 and $30,000 again in July 2026, and smaller amounts in earlier years.",
+  "stake": "A party-aligned fundraising vehicle rather than a commercial interest — one of the few donors on this register that exists only to fund a party.",
+  "sources": [
+   {
+    "title": "Jim Gerard — Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Jim_Gerard"
+   },
+   {
+    "title": "Who's funding who in election year? — The Spinoff",
+    "url": "https://thespinoff.co.nz/politics/14-04-2026/whos-funding-who-in-election-year"
+   }
+  ]
+ },
+ "christopher-and-banks-ltd": {
+  "slug": "christopher-and-banks-ltd",
+  "name": "Christopher & Banks Ltd",
+  "kind": "company",
+  "summary": "The Huljich family's private equity firm, a steady six-figure backer of ACT and National.",
+  "background": "Christopher & Banks is a private equity business associated with rich-lister Christopher Huljich; the former National MP and Auckland mayor John Banks was a director. The firm gave $200,000 split evenly between National and ACT in the 2023 cycle, and has continued into 2026 with further donations to ACT and NZ First. Peter Huljich, a director of a related company, was convicted of insider trading in 2025.",
+  "register": {
+   "nzbn": "9429052661174",
+   "incorporated": "06 Mar 2025",
+   "directors": [
+    "Peter Karl Christopher Huljich"
+   ],
+   "shareholders": [
+    "Huljich Family Trust Nominees Limited (89.61%)",
+    "Msh Australia Pty Ltd (8.30%)",
+    "Jason Timothy Kilgour (2.09%)"
+   ]
+  },
+  "stake": "Investment and financial services, exposed to tax, financial-markets regulation and the capital-gains debate.",
+  "sources": [
+   {
+    "title": "Who's funding who in election year? — The Spinoff",
+    "url": "https://thespinoff.co.nz/politics/14-04-2026/whos-funding-who-in-election-year"
+   },
+   {
+    "title": "Election 2023: National banks 7.5 times more in donations than Labour — NZ Herald",
+    "url": "https://www.nzherald.co.nz/nz/election-2023-national-party-banks-75-times-more-in-donations-than-labour-party/CAKRIIEYXBGMRGUNIVQ6J3NXVM/"
+   },
+   {
+    "title": "CHRISTOPHER & BANKS LIMITED — Companies Office register",
+    "url": "https://app.companiesoffice.govt.nz/companies/app/ui/pages/companies/9321019"
+   }
+  ]
+ },
+ "coromandel-no-5-ltd": {
+  "slug": "coromandel-no-5-ltd",
+  "name": "Coromandel No 5 Ltd",
+  "kind": "company",
+  "summary": "Incorporated 07 Nov 2001. Shareholding is split between 1 parties.",
+  "register": {
+   "nzbn": "9429036744329",
+   "incorporated": "07 Nov 2001",
+   "directors": [
+    "Gregory Neil Boyd",
+    "Diani Boyd"
+   ],
+   "shareholders": [
+    "Gregory Neil Boyd (6.67%)"
+   ]
+  },
+  "sources": [
+   {
+    "title": "COROMANDEL NO 5 LIMITED — Companies Office register",
+    "url": "https://app.companiesoffice.govt.nz/companies/app/ui/pages/companies/1167013"
+   }
+  ]
+ },
+ "d-richwhite": {
+  "slug": "d-richwhite",
+  "name": "David Richwhite",
+  "kind": "person",
+  "summary": "Half of the 1980s merchant bank Fay Richwhite, still funding ACT and National from abroad.",
+  "background": "David MacKellar Richwhite formed Fay, Richwhite & Company with Sir Michael Fay in 1973, building one of Australasia's leading merchant banks through the 1980s and 1990s. The firm was at the centre of the Winebox Inquiry into tax-avoidance arrangements in the Cook Islands. His wealth was largely made during the structural reforms of the fourth Labour government. He lived in Geneva from 1998 to 2003 and has since been based in London, while continuing to give to ACT and National.",
+  "sources": [
+   {
+    "title": "David Richwhite — Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/David_Richwhite"
+   },
+   {
+    "title": "Featured NBR Rich Lister: David Richwhite",
+    "url": "https://nbr.co.nz/business/featured-nbr-rich-lister-david-richwhite"
+   }
+  ]
+ },
+ "dairy-workers-union": {
+  "slug": "dairy-workers-union",
+  "name": "Dairy Workers Union",
+  "kind": "union",
+  "summary": "The union for dairy factory workers, and Labour's largest union backer in both cycles.",
+  "background": "The New Zealand Dairy Workers Union represents workers in dairy processing plants. It is one of the unions formally affiliated to the Labour Party: affiliates pay fees, send delegates to Labour's conference and vote in its internal processes. It gave $50,000 in March 2023 and $45,000 that September, then $100,000 in August 2026 — the largest single union donation on the register.",
+  "stake": "Employment law is the direct interest: the restoration or repeal of Fair Pay Agreements, collective bargaining rules and minimum wage settings all turn on which bloc governs.",
+  "sources": [
+   {
+    "title": "NZ Dairy Workers Union — donor profile, PublicData NZ",
+    "url": "https://publicdata.co.nz/parliament/party-donations/donors/nz-dairy-workers-union"
+   },
+   {
+    "title": "Unions back Labour and Greens with $120,000 — NZ Herald",
+    "url": "https://www.nzherald.co.nz/nz/unions-back-labour-and-greens-with-120000/FO5FPQBQY4UBPSUHTELB7UUH5E/"
+   }
+  ]
+ },
+ "e-tu": {
+  "slug": "e-tu",
+  "name": "E Tū",
+  "kind": "union",
+  "summary": "New Zealand's largest private-sector union, formed from the merger of the EPMU and Service and Food Workers Union.",
+  "background": "E tū covers manufacturing, aviation, public transport, cleaning, security, food processing, journalism and more. It is affiliated to the Labour Party and gave $90,000 in May 2023.",
+  "stake": "Collective bargaining law, contractor rules and sector wage settings.",
+  "sources": [
+   {
+    "title": "New Zealand Council of Trade Unions — Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/New_Zealand_Council_of_Trade_Unions"
+   },
+   {
+    "title": "Unions back Labour and Greens with $120,000 — NZ Herald",
+    "url": "https://www.nzherald.co.nz/nz/unions-back-labour-and-greens-with-120000/FO5FPQBQY4UBPSUHTELB7UUH5E/"
+   }
+  ]
+ },
+ "estate-of-hugh-barr": {
+  "slug": "estate-of-hugh-barr",
+  "name": "Estate of Hugh Barr",
+  "kind": "estate",
+  "summary": "A bequest from the scientist, tramper and access campaigner who once stood for NZ First in Ōhāriu.",
+  "background": "Hugh Barr was a scientist and outdoor recreation advocate who died in December 2021, aged 80. He was president of Federated Mountain Clubs from 1993 to 1995, served on its executive across three decades, was secretary of the Council of Outdoor Recreation Associations, and worked on projects including Te Araroa. NZ First selected him as its Ōhāriu candidate in 2011. Winston Peters said Barr had been drawn to the party by its practical environmental policy. His estate left the party $116,162 in February 2023, later amended to a total of about $181,000.",
+  "stake": "A bequest, so no continuing interest. Barr's politics were about public access to the backcountry and opposition to what he saw as lock-ups of Crown land.",
+  "sources": [
+   {
+    "title": "NZ First receives $116,000 bequest from the late environmentalist Hugh Barr — NZ Herald",
+    "url": "https://www.nzherald.co.nz/nz/politics/nz-first-receives-116000-bequest-from-the-late-environmentalist-hugh-barr/GEWIR2FSPBDORMSJLMQI3UPATU/"
+   },
+   {
+    "title": "Farewell to Jan Heine, John Nankervis and Hugh Barr — Federated Mountain Clubs",
+    "url": "https://fmc.org.nz/2022/01/17/farewell-to-jan-heine-john-nankervis-and-hugh-barr/"
+   }
+  ]
+ },
+ "foresta-nz-ltd": {
+  "slug": "foresta-nz-ltd",
+  "name": "Foresta (NZ) Ltd",
+  "kind": "company",
+  "summary": "Incorporated 08 Dec 2022. Foresta Group Holdings Limited holds 100.00% of the shares.",
+  "register": {
+   "nzbn": "9429051003227",
+   "incorporated": "08 Dec 2022",
+   "directors": [
+    "Russell Wayne Allen",
+    "Pai-Heng Cheng",
+    "Maurizio Edoardo Fabiani",
+    "Ramon Dudley Mountfort"
+   ],
+   "shareholders": [
+    "Foresta Group Holdings Limited (100.00%)"
+   ]
+  },
+  "sources": [
+   {
+    "title": "FORESTA (NZ) LIMITED — Companies Office register",
+    "url": "https://app.companiesoffice.govt.nz/companies/app/ui/pages/companies/8547326"
+   }
+  ],
+  "background": "Formerly Bioresources Limited."
+ },
+ "gmp-environmental-ltd": {
+  "slug": "gmp-environmental-ltd",
+  "name": "GMP Environmental Ltd",
+  "kind": "company",
+  "summary": "A Greymouth Petroleum subsidiary that gave $100,000 each to National, ACT and NZ First on the same days in February 2026.",
+  "background": "GMP Environmental is part of the Greymouth Petroleum group, one of New Zealand's largest oil and gas operators, controlled by Mark Dunphy. The three identical $100,000 donations landed within days of each other in mid-February 2026 and went to all three coalition parties.",
+  "register": {
+   "nzbn": "9429034559154",
+   "incorporated": "07 Sep 2005",
+   "directors": [
+    "Robert Mark Patrick Dunphy",
+    "Peter Hanbury Masfen",
+    "Philip Michael Smith",
+    "Raphael William Wai-Ming Yan",
+    "James Malcolm Dunphy",
+    "John Gilbert Sturgess"
+   ],
+   "shareholders": [
+    "Greymouth Facilities Limited (100.00%)"
+   ]
+  },
+  "wealth": "Mark Dunphy has been reported on the NBR List with an estimated net worth above $200 million.",
+  "stake": "Greymouth was among the most vocal lobbyists for the decommissioning liability changes delivered by the Crown Minerals Amendment Act 2025. The donations followed that change, a sequence commentators have flagged as the clearest appearance-of-influence question on the current register.",
+  "sources": [
+   {
+    "title": "New Zealand First pulls ahead of Act and National in major donations — NZ Herald",
+    "url": "https://www.nzherald.co.nz/nz/new-zealand-first-pulls-ahead-of-act-and-national-in-major-donations/7OIY24B7S5BGJLDT3JVTXG4CU4/"
+   },
+   {
+    "title": "Democracy Briefing: Big money flowing into the political parties in 2026",
+    "url": "https://www.democracyproject.org.nz/p/democracy-briefing-big-money-flowing"
+   },
+   {
+    "title": "Parties with worst environmental policies are taking donations from polluting industries — Scoop",
+    "url": "https://www.scoop.co.nz/stories/PO2609/S00117/new-election-scorecard-shows-parties-with-worst-environmental-policies-are-taking-donations-from-polluting-industries.htm"
+   },
+   {
+    "title": "GMP ENVIRONMENTAL LIMITED — Companies Office register",
+    "url": "https://app.companiesoffice.govt.nz/companies/app/ui/pages/companies/1688910"
+   }
+  ]
+ },
+ "hud-studio-ltd": {
+  "slug": "hud-studio-ltd",
+  "name": "Hud Studio Ltd",
+  "kind": "company",
+  "summary": "Incorporated 12 Apr 2006. Yong Chen holds 99.00% of the shares.",
+  "register": {
+   "nzbn": "9429034178638",
+   "incorporated": "12 Apr 2006",
+   "directors": [
+    "Yong Chen",
+    "Xiao Tong Zhou"
+   ],
+   "shareholders": [
+    "Yong Chen (99.00%)",
+    "Deng Wang (0.50%)",
+    "Vishal Shantilal Jani (0.50%)"
+   ]
+  },
+  "sources": [
+   {
+    "title": "HUD STUDIO LIMITED — Companies Office register",
+    "url": "https://app.companiesoffice.govt.nz/companies/app/ui/pages/companies/1800707"
+   }
+  ],
+  "background": "Formerly C & Z Tech Limited, Yerite.Com Limited."
+ },
+ "ief-ltd": {
+  "slug": "ief-ltd",
+  "name": "IEF Ltd",
+  "kind": "company",
+  "summary": "Incorporated 14 Jun 2004. Hlft Trustee Limited holds 60.00% of the shares.",
+  "register": {
+   "nzbn": "9429035338307",
+   "incorporated": "14 Jun 2004",
+   "directors": [
+    "Robson Liang",
+    "Mandy Jianmin Yan Liang"
+   ],
+   "shareholders": [
+    "Hlft Trustee Limited (60.00%)",
+    "Robson Liang (40.00%)"
+   ]
+  },
+  "sources": [
+   {
+    "title": "IEF LIMITED — Companies Office register",
+    "url": "https://app.companiesoffice.govt.nz/companies/app/ui/pages/companies/1524214"
+   }
+  ]
+ },
+ "j-gibbs": {
+  "slug": "j-gibbs",
+  "name": "Dame Jenny Gibbs",
+  "kind": "person",
+  "summary": "Arts philanthropist and one of ACT's most consistent funders over more than a decade.",
+  "background": "Dame Jennifer Gibbs is a philanthropist and contemporary art collector, described in 2007 as the most constant champion of contemporary art in New Zealand. She funded a new gallery at Auckland Art Gallery and in 2018 gave it fifteen Gordon Walters works. She has donated to ACT every year since 2014, reported to total more than $900,000 over that period. She is married to Alan Gibbs, a founding funder of the ACT Party.",
+  "stake": "A political rather than commercial donor: the Gibbs money has underwritten ACT's existence for a decade.",
+  "sources": [
+   {
+    "title": "Jenny Gibbs — Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Jenny_Gibbs"
+   },
+   {
+    "title": "ACT donations surge, doubling in 20 days — ODT / RNZ",
+    "url": "https://www.odt.co.nz/news/national/donations-act-party-surge-doubling-20-days-rnz"
+   }
+  ]
+ },
+ "little-umbrella-ltd": {
+  "slug": "little-umbrella-ltd",
+  "name": "Little Umbrella Ltd",
+  "kind": "company",
+  "summary": "Incorporated 29 Apr 2019. Grand Future Be International Limited holds 100.00% of the shares.",
+  "register": {
+   "nzbn": "9429047422209",
+   "incorporated": "29 Apr 2019",
+   "directors": [
+    "Stephen John Darling",
+    "Jie Yu",
+    "Bin Luo",
+    "Wayne Kai-Shang Lee"
+   ],
+   "shareholders": [
+    "Grand Future Be International Limited (100.00%)"
+   ]
+  },
+  "sources": [
+   {
+    "title": "LITTLE UMBRELLA LIMITED — Companies Office register",
+    "url": "https://app.companiesoffice.govt.nz/companies/app/ui/pages/companies/7431656"
+   }
+  ]
+ },
+ "m-jones": {
+  "slug": "m-jones",
+  "name": "Estate of Murray George Jones",
+  "kind": "estate",
+  "summary": "A bequest from one of New Zealand's greatest mountaineers — the largest donation Labour has declared in the 2026 cycle.",
+  "background": "Murray Jones died at his home in Bannockburn in December 2025, aged 81. In the 1970s he and Graeme Dingle were ranked among the best technical climbers in the world. He worked on the Clyde Dam from 1979 to 1990 and stayed politically active locally, including a successful campaign for a two-lane bridge to Bannockburn. His will left $219,178.08 to the Labour Party, paid in June 2026.",
+  "stake": "A bequest, so no continuing interest — but a reminder that the largest cheques on the left of this register tend to come from individuals, not organisations.",
+  "sources": [
+   {
+    "title": "Sir Ed's elite climbing compatriot leaves $220k political donation in will — Newsroom",
+    "url": "https://newsroom.co.nz/2026/06/18/sir-eds-elite-climbing-compatriot-leaves-220k-political-donation-in-will/"
+   },
+   {
+    "title": "Cromwell Lives — Mountaineer Murray Jones",
+    "url": "https://cromwellnews.co.nz/2021/10/cromwell-lives-mountaineer-murray-jones/"
+   }
+  ]
+ },
+ "m-sullivan": {
+  "slug": "m-sullivan",
+  "name": "Michael Grant Sullivan",
+  "kind": "person",
+  "summary": "Auckland luxury-apartment developer who paid all three coalition parties on the same day in January 2026.",
+  "background": "Sullivan founded Clearwater Construction in 1984 and built a record in large residential, commercial and industrial projects across Auckland and Christchurch. He now directs Countrywide Properties, behind some of the country's most expensive apartment developments — the penthouse at its 22 Karori project in Orakei sold for about $17 million, a New Zealand apartment record. He gave $50,000 each to ACT and National before the 2023 election, then $200,000 across National, ACT and NZ First on one day in January 2026. Approached by interest.co.nz, he declined to comment.",
+  "stake": "Property development is the industry with the most at stake in resource-management reform, and is consistently the largest donor sector on this register.",
+  "sources": [
+   {
+    "title": "Big political donations fast out of the gates in election year — interest.co.nz",
+    "url": "https://www.interest.co.nz/public-policy/137264/big-donations-already-flowing-political-party-pockets-election-year-kicks"
+   },
+   {
+    "title": "Democracy Briefing: A property developers' government?",
+    "url": "https://www.democracyproject.org.nz/p/democracy-briefing-a-property-developers"
+   }
+  ]
+ },
+ "m-wyborn": {
+  "slug": "m-wyborn",
+  "name": "M J Wyborn",
+  "kind": "person",
+  "summary": "Mark Wyborn, Viaduct Harbour property developer and NZ First's biggest individual backer in 2023.",
+  "background": "Wyborn owns some of the most valuable land in Auckland, in the Viaduct and in Newmarket, in partnership with fellow donor Trevor Farmer. He founded Viaduct Harbour Holdings and their property investment company Tramco holds more than $2 billion in assets; his son Justin is a current director. He gave $200,000 to NZ First across the 2023 cycle, alongside donations to National.",
+  "stake": "Viaduct Harbour's leasehold land and Auckland development consents sit directly under planning law and council policy.",
+  "sources": [
+   {
+    "title": "NZ First receives $100,000 from rich-lister property developers Trevor Farmer and Mark Wyborn — NZ Herald",
+    "url": "https://www.nzherald.co.nz/nz/politics/nz-first-receives-100000-in-donations-from-richlister-auckland-property-developers-trevor-farmer-and-mark-wyborn/5SBHG46U55CD3FBGKIHQZ7XA4U/"
+   },
+   {
+    "title": "Property industry tops political donations — RNZ",
+    "url": "https://www.rnz.co.nz/news/national/499176/property-industry-tops-political-donations"
+   }
+  ]
+ },
+ "maritime-union-of-new-zealand": {
+  "slug": "maritime-union-of-new-zealand",
+  "name": "Maritime Union of New Zealand",
+  "kind": "union",
+  "summary": "The waterfront and seafarers' union, a Labour affiliate, gave $50,000 in the 2023 cycle.",
+  "background": "MUNZ represents port workers and seafarers and is formally affiliated to the Labour Party. Its $50,000 donation was filed on the same day as those from the Rail & Maritime Transport Union and Mark Todd, in a coordinated run of affiliate giving before the 2023 election.",
+  "stake": "Port automation, cabotage rules and health and safety law on the waterfront.",
+  "sources": [
+   {
+    "title": "Unions back Labour and Greens with $120,000 — NZ Herald",
+    "url": "https://www.nzherald.co.nz/nz/unions-back-labour-and-greens-with-120000/FO5FPQBQY4UBPSUHTELB7UUH5E/"
+   }
+  ]
+ },
+ "merani-trust": {
+  "slug": "merani-trust",
+  "name": "Merani Trust",
+  "kind": "trust",
+  "summary": "The giving vehicle of Andrew Bagnall, former racing driver and founder of Gullivers Travel Group.",
+  "background": "John Andrew Bagnall, born 1947, raced professionally before building Gullivers Travel Group into a major New Zealand wholesaler and retailer of travel services, later listed and sold. He is a philanthropist: in 2018 he gave $1.2 million to endow international scholarships for Auckland university graduates. The Merani Trust gave ACT $75,000 in August 2026, after about $55,000 in October 2023.",
+  "wealth": "Reported wealth of around $125 million.",
+  "sources": [
+   {
+    "title": "Andrew Bagnall — Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Andrew_Bagnall"
+   },
+   {
+    "title": "Andrew Bagnall drives full circle with $1.2m donation for international scholarships — NZ Herald",
+    "url": "https://www.nzherald.co.nz/business/andrew-bagnall-drives-full-circle-with-12m-donation-for-international-scholarships/GNBVCEZI4XEHJBI3FU6OZPFY3M/"
+   }
+  ]
+ },
+ "midlands-holdings-ltd": {
+  "slug": "midlands-holdings-ltd",
+  "name": "Midlands Holdings Ltd",
+  "kind": "company",
+  "summary": "Incorporated 25 Jul 1997. Shareholding is split between 8 parties.",
+  "register": {
+   "nzbn": "9429038036415",
+   "incorporated": "25 Jul 1997",
+   "directors": [
+    "Richard Bowman",
+    "Andrew Richard Davidson",
+    "Christopher Douglas Green",
+    "Eric Thomas Parr",
+    "Duncan Rex Storrier",
+    "Brian John Davidson",
+    "Jon Levane Bond"
+   ],
+   "shareholders": [
+    "C Green Holdings Limited (45.35%)",
+    "Duncan Storrier Investments Limited (29.64%)",
+    "Flow Agriculture Limited (20.00%)",
+    "B J Davidson Investments Limited (5.00%)",
+    "Christopher Douglas Green (0.00%)",
+    "Dsf Trustees Limited (0.00%)",
+    "Andrew Richard Davidson (0.00%)",
+    "Brian John Davidson (0.00%)"
+   ]
+  },
+  "sources": [
+   {
+    "title": "MIDLANDS HOLDINGS LIMITED — Companies Office register",
+    "url": "https://app.companiesoffice.govt.nz/companies/app/ui/pages/companies/867618"
+   }
+  ],
+  "background": "Formerly Midlands Seed Holdings Limited."
+ },
+ "midlands-seed-ltd": {
+  "slug": "midlands-seed-ltd",
+  "name": "Midlands Seed Ltd",
+  "kind": "company",
+  "summary": "Incorporated 08 May 1990. Midlands Holdings Limited holds 99.93% of the shares.",
+  "register": {
+   "nzbn": "9429039222855",
+   "incorporated": "08 May 1990",
+   "directors": [
+    "Richard Giles Bowman",
+    "Andrew Richard Davidson",
+    "Christopher Douglas Green",
+    "Eric Thomas Parr",
+    "Duncan Rex Storrier",
+    "Brian John Davidson",
+    "Jon Levane Bond"
+   ],
+   "shareholders": [
+    "Midlands Holdings Limited (99.93%)",
+    "Christopher Douglas Green (0.03%)",
+    "Dsf Trustees Limited (0.02%)",
+    "Andrew Richard Davidson (0.01%)",
+    "Brian John Davidson (0.00%)"
+   ]
+  },
+  "sources": [
+   {
+    "title": "MIDLANDS SEED LIMITED — Companies Office register",
+    "url": "https://app.companiesoffice.govt.nz/companies/app/ui/pages/companies/468612"
+   }
+  ]
+ },
+ "multum-corporation-ltd": {
+  "slug": "multum-corporation-ltd",
+  "name": "Multum Corporation Ltd",
+  "kind": "company",
+  "summary": "The personal investment company of Craig Heatley, who founded Sky Television.",
+  "register": {
+   "nzbn": "9429039378880",
+   "incorporated": "16 Feb 1988",
+   "directors": [
+    "Craig Leonard Heatley"
+   ],
+   "shareholders": [
+    "Craig Leonard Heatley (100.00%)"
+   ]
+  },
+  "sources": [
+   {
+    "title": "MULTUM CORPORATION LIMITED — Companies Office register",
+    "url": "https://app.companiesoffice.govt.nz/companies/app/ui/pages/companies/416974"
+   },
+   {
+    "title": "Craig Heatley — Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Craig_Heatley"
+   },
+   {
+    "title": "Featured NBR Rich Lister: Craig Heatley",
+    "url": "https://nbr.co.nz/business/featured-nbr-rich-lister-craig-heatley"
+   }
+  ],
+  "background": "Heatley set up Sky Network Television with a personal investment of $1 and turned it into New Zealand's only pay-TV provider and one of the country's ten largest companies, keeping a 15% stake. He was the youngest person on the NBR Rich List by 1986 and has since worked as an investor and philanthropist. Multum Corporation, incorporated in 1988, is wholly owned and solely directed by him; he also appears on this register donating in his own name in 2023.",
+  "wealth": "A long-standing member of the NBR List of New Zealand's wealthiest."
+ },
+ "n-mowbray": {
+  "slug": "n-mowbray",
+  "name": "Nicholas James Mowbray",
+  "kind": "person",
+  "summary": "Co-founder of the toy company Zuru, and one of the largest individual donors to ACT and National.",
+  "background": "Nick Mowbray founded Zuru with his brother Mat and sister Anna, building it from a Cambridge garage into a global toy, consumer goods and construction group headquartered in Auckland and Hong Kong. He is a frequent public commentator on New Zealand's economy, tax settings and business conditions.",
+  "wealth": "The Mowbray siblings are regularly placed among New Zealand's wealthiest people on the NBR List.",
+  "stake": "Zuru's interests run to manufacturing, trade, tariffs and immigration settings. Mowbray gives only to National and ACT, in large single amounts, and has done so in both cycles.",
+  "sources": [
+   {
+    "title": "New Zealand First pulls ahead of Act and National in major donations — Newstalk ZB",
+    "url": "https://www.newstalkzb.co.nz/news/politics/new-zealand-first-pulls-ahead-of-act-and-national-in-major-donations/"
+   },
+   {
+    "title": "Big donations already flowing as election year kicks off — interest.co.nz",
+    "url": "https://www.interest.co.nz/public-policy/137264/big-donations-already-flowing-political-party-pockets-election-year-kicks"
+   }
+  ]
+ },
+ "nz-meat-workers-union": {
+  "slug": "nz-meat-workers-union",
+  "name": "NZ Meat Workers Union",
+  "kind": "union",
+  "summary": "The meat processing workers' union; $35,000 to Labour in the 2023 cycle.",
+  "background": "The New Zealand Meat Workers and Related Trades Union represents workers in freezing works and meat processing plants, concentrated in provincial New Zealand. It is affiliated to the Labour Party.",
+  "stake": "Processing plant closures, seasonal employment law and health and safety.",
+  "sources": [
+   {
+    "title": "Patterns of party political donations in New Zealand — Policy Quarterly",
+    "url": "https://ojs.victoria.ac.nz/pq/article/download/6818/5966/9542"
+   }
+  ]
+ },
+ "oregon-group-ltd": {
+  "slug": "oregon-group-ltd",
+  "name": "Oregon Group Ltd",
+  "kind": "company",
+  "summary": "Incorporated 01 Sep 1992. Callander Group Limited holds 80.00% of the shares.",
+  "register": {
+   "nzbn": "9429038936531",
+   "incorporated": "01 Sep 1992",
+   "directors": [
+    "Jack Lee Porus",
+    "Chiong Yong Tiong",
+    "Chiong Ong Tiong",
+    "Ik King Tiong",
+    "Chiong Hoo Tiong",
+    "Thai King Tiong",
+    "Thomas Chai Leng Song",
+    "James Lau Sze Yuan",
+    "Robert Narev"
+   ],
+   "shareholders": [
+    "Callander Group Limited (80.00%)",
+    "Gold Palace Profits Limited (10.00%)",
+    "Shiang Yang International Limited (10.00%)"
+   ]
+  },
+  "sources": [
+   {
+    "title": "OREGON GROUP LIMITED — Companies Office register",
+    "url": "https://app.companiesoffice.govt.nz/companies/app/ui/pages/companies/560422"
+   }
+  ],
+  "background": "Formerly Oregon Forestry (N.Z.) Limited."
+ },
+ "owens-properties-ltd": {
+  "slug": "owens-properties-ltd",
+  "name": "Owens Properties Ltd",
+  "kind": "company",
+  "summary": "Incorporated 27 Aug 2019. Mark Andrew Owens holds 50.00% of the shares.",
+  "register": {
+   "nzbn": "9429047650206",
+   "incorporated": "27 Aug 2019",
+   "directors": [
+    "Mark Andrew Owens",
+    "Maryanne Owens"
+   ],
+   "shareholders": [
+    "Mark Andrew Owens (50.00%)",
+    "Maryanne Owens (50.00%)"
+   ]
+  },
+  "sources": [
+   {
+    "title": "OWENS PROPERTIES LIMITED — Companies Office register",
+    "url": "https://app.companiesoffice.govt.nz/companies/app/ui/pages/companies/7696116"
+   }
+  ]
+ },
+ "p-mills": {
+  "slug": "p-mills",
+  "name": "Phillip Mills",
+  "kind": "person",
+  "summary": "Les Mills International owner and climate philanthropist — the largest donor on the left of this register.",
+  "background": "Phillip Mills is a former track athlete who built Les Mills International, the group-fitness business founded by his father, into a global brand. He co-founded Pure Advantage, a green business lobby group, and has spent years funding climate advocacy. He and his wife Jackie have given to Labour and the Greens across both cycles; in the 2026 cycle his money also went to The Opportunities Party.",
+  "wealth": "The Mills family appears on the NBR List of New Zealand's wealthiest.",
+  "stake": "His giving tracks climate and environmental policy rather than a commercial interest in regulation — he is the mirror image of the fossil-fuel money on this register.",
+  "sources": [
+   {
+    "title": "Phillip Mills — Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Phillip_Mills"
+   },
+   {
+    "title": "Featured Lister: Philip and Jackie Mills — NBR",
+    "url": "https://nbr.co.nz/featured-listers-2023/featured-lister-2023-philip-and-jackie-mills"
+   }
+  ]
+ },
+ "p-vela": {
+  "slug": "p-vela",
+  "name": "Sir Peter Vela",
+  "kind": "person",
+  "summary": "Fishing magnate and thoroughbred breeder; the country's largest privately owned fishing quota holder.",
+  "background": "Sir Peter Vela founded Vela Fishing in 1976 with his late brother Philip, building the largest privately held quota holding in New Zealand, and established Pencarrow Stud on 300 hectares at Tamahere outside Hamilton. He was made an Officer of the New Zealand Order of Merit in 2002 for services to racing and bloodstock, and later knighted for philanthropy and services to business.",
+  "stake": "Fisheries quota policy, the Quota Management System and racing industry funding are all directly set by government. His donations go to NZ First and ACT; NZ First has historically championed both the fishing and racing industries.",
+  "sources": [
+   {
+    "title": "Peter Vela — Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Peter_Vela"
+   },
+   {
+    "title": "Fishing magnate knighted for philanthropy, services to business — ODT",
+    "url": "https://odt.co.nz/node/344295"
+   }
+  ]
+ },
+ "progressive-construction-ltd": {
+  "slug": "progressive-construction-ltd",
+  "name": "Progressive Construction Ltd",
+  "kind": "company",
+  "summary": "Incorporated 08 Sep 2004. New Zealand Trustee Services Limited holds 100.00% of the shares.",
+  "register": {
+   "nzbn": "9429035216469",
+   "incorporated": "08 Sep 2004",
+   "directors": [
+    "Michael David Greer",
+    "Kirsten Maree Hall",
+    "Darren James Smart",
+    "Andrew Brian Lill"
+   ],
+   "shareholders": [
+    "New Zealand Trustee Services Limited (100.00%)"
+   ]
+  },
+  "sources": [
+   {
+    "title": "PROGRESSIVE CONSTRUCTION LIMITED — Companies Office register",
+    "url": "https://app.companiesoffice.govt.nz/companies/app/ui/pages/companies/1548787"
+   }
+  ],
+  "background": "Formerly Domus Construction Limited."
+ },
+ "queenstown-central-ltd": {
+  "slug": "queenstown-central-ltd",
+  "name": "Queenstown Central Ltd",
+  "kind": "company",
+  "summary": "Incorporated 29 Jul 2010. Southern Lakes Property Holdings Limited holds 50.00% of the shares.",
+  "register": {
+   "nzbn": "9429031439275",
+   "incorporated": "29 Jul 2010",
+   "directors": [
+    "Stephen Graham Lockwood",
+    "Carl Darcy O'Shea",
+    "Melissa Clark",
+    "Lewis Thomas Grant"
+   ],
+   "shareholders": [
+    "Southern Lakes Property Holdings Limited (50.00%)",
+    "Baxter Property Holdings Limited (50.00%)"
+   ]
+  },
+  "sources": [
+   {
+    "title": "QUEENSTOWN CENTRAL LIMITED — Companies Office register",
+    "url": "https://app.companiesoffice.govt.nz/companies/app/ui/pages/companies/3044588"
+   }
+  ]
+ },
+ "r-hubbard": {
+  "slug": "r-hubbard",
+  "name": "Richard John Hubbard",
+  "kind": "person",
+  "summary": "Dick Hubbard — cereal maker, former Auckland mayor, and Labour's largest individual donor in both cycles.",
+  "background": "Hubbard founded Hubbard Foods and served as mayor of Auckland City from 2004 to 2007. He built the company on an explicit social-responsibility platform and later moved to Queenstown, where he has argued publicly for limits on the town's growth. He endorsed Labour before the 2017 election and gave $15,000 to that campaign, then $100,000 in May 2023 and $100,000 again in August 2026.",
+  "stake": "A values donor rather than a sectoral one; his public interventions are about urban growth and corporate responsibility.",
+  "sources": [
+   {
+    "title": "Dick Hubbard — Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Dick_Hubbard"
+   },
+   {
+    "title": "South's big political donors revealed — The Press",
+    "url": "https://www.pressreader.com/new-zealand/the-press/20240504/281659670120037"
+   }
+  ]
+ },
+ "r-morgan": {
+  "slug": "r-morgan",
+  "name": "Robert Morgan",
+  "kind": "person",
+  "noPublicProfile": true,
+  "summary": "The Greens' largest individual donor in the 2026 cycle, with no public profile beyond the returns.",
+  "background": "Robert Morgan gave the Green Party $50,000 in July 2023, $57,000 in July 2026 and $52,000 in September 2026, the last amended in October. Searches turned up no reliable public information about him. He is not Gareth Morgan, the economist and TOP founder who also lives in Oriental Bay.",
+  "sources": []
+ },
+ "rail-and-maritime-transport-union": {
+  "slug": "rail-and-maritime-transport-union",
+  "name": "Rail & Maritime Transport Union",
+  "kind": "union",
+  "summary": "The union for rail and interisland ferry workers, affiliated to Labour and a donor in both cycles.",
+  "background": "The RMTU represents workers at KiwiRail and in the ports, and is one of the unions formally affiliated to the Labour Party. It gave $50,000 in August 2023 and $60,000 in July 2026.",
+  "stake": "Rail investment, the interisland ferry replacement and public ownership of KiwiRail are live political questions that bear directly on its members' jobs.",
+  "sources": [
+   {
+    "title": "Unions back Labour and Greens with $120,000 — NZ Herald",
+    "url": "https://www.nzherald.co.nz/nz/unions-back-labour-and-greens-with-120000/FO5FPQBQY4UBPSUHTELB7UUH5E/"
+   }
+  ]
+ },
+ "rangitoopuni-developments-gp-ltd": {
+  "slug": "rangitoopuni-developments-gp-ltd",
+  "name": "Rangitoopuni Developments GP Ltd",
+  "kind": "company",
+  "summary": "Incorporated 18 Apr 2024. Rangitoopuni Land Holdings Gp Limited holds 50.00% of the shares.",
+  "register": {
+   "nzbn": "9429052039492",
+   "incorporated": "18 Apr 2024",
+   "directors": [
+    "Mathew John Peters",
+    "Leon Wijohn"
+   ],
+   "shareholders": [
+    "Rangitoopuni Land Holdings Gp Limited (50.00%)",
+    "Avant Group Limited (50.00%)"
+   ]
+  },
+  "sources": [
+   {
+    "title": "RANGITOOPUNI DEVELOPMENTS GP LIMITED — Companies Office register",
+    "url": "https://app.companiesoffice.govt.nz/companies/app/ui/pages/companies/9216960"
+   }
+  ]
+ },
+ "rank-group-ltd": {
+  "slug": "rank-group-ltd",
+  "name": "Rank Group Ltd",
+  "kind": "company",
+  "summary": "Graeme Hart's private investment company, and the single largest declared donor in both cycles.",
+  "background": "Rank Group is the holding company of Graeme Hart, New Zealand's wealthiest person. Unlisted and wholly owned by Hart, it has been the vehicle for a run of leveraged acquisitions of underperforming industrial businesses with steady cash flows: Burns Philp, Carter Holt Harvey in 2006, and Alcoa's packaging and consumer group in 2008, which became Reynolds Packaging. One of the 2023 returns was filed as \"Rank Group Limited via Graeme Hart\", naming him directly.",
+  "register": {
+   "nzbn": "9429037782269",
+   "incorporated": "12 Aug 1998",
+   "directors": [
+    "Gregory Alan Cole",
+    "Helen Dorothy Golding",
+    "Graeme Richard Hart",
+    "Allen Philip Hugli",
+    "Bryce Mccheyne Murray",
+    "Gavin John Macdonald"
+   ],
+   "shareholders": [
+    "Graeme Richard Hart (100.00%)"
+   ]
+  },
+  "wealth": "Hart's net worth has been reported at around US$9.7 billion, making him New Zealand's richest person.",
+  "stake": "Packaging, forestry and industrial manufacturing sit under tax, trade, emissions and resource-management settings. Rank's giving goes only to the centre-right bloc, split across National, ACT and NZ First.",
+  "sources": [
+   {
+    "title": "Graeme Hart — Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Graeme_Hart"
+   },
+   {
+    "title": "Rank Group — The Integrity Institute",
+    "url": "https://theintegrityinstitute.substack.com/p/rank-group"
+   },
+   {
+    "title": "RANK GROUP LIMITED — Companies Office register",
+    "url": "https://app.companiesoffice.govt.nz/companies/app/ui/pages/companies/921169"
+   }
+  ]
+ },
+ "red-stag-timber-ltd": {
+  "slug": "red-stag-timber-ltd",
+  "name": "Red Stag Timber Ltd",
+  "kind": "company",
+  "summary": "Rotorua sawmiller supplying about a quarter of New Zealand's structural timber, led by Marty Verry.",
+  "register": {
+   "nzbn": "9429035827320",
+   "incorporated": "11 Aug 2003",
+   "directors": [
+    "Louise Jane Dinmore",
+    "Martin Philip Verry",
+    "Phillip Arthur Verry",
+    "Gary Haswell Catley",
+    "Michael Peter Stiassny",
+    "Brendon James Gibson"
+   ],
+   "shareholders": [
+    "Waipa Corporation Limited (100.00%)"
+   ],
+   "industry": "Forestry and wood processing"
+  },
+  "sources": [
+   {
+    "title": "RED STAG TIMBER LIMITED — Companies Office register",
+    "url": "https://app.companiesoffice.govt.nz/companies/app/ui/pages/companies/1373459"
+   },
+   {
+    "title": "Marty Verry — RNZ",
+    "url": "https://www.rnz.co.nz/tags/Marty%20Verry"
+   },
+   {
+    "title": "Red Stag purchases TimberLab — International Forest Industries",
+    "url": "https://internationalforestindustries.com/?p=46661"
+   }
+  ],
+  "background": "Marty Verry and his late father Phil bought the Red Stag sawmill out of receivership in December 2003. The group now spans forestry, wood processing, prefabrication and cross-laminated timber, and bought the mass-timber business TimberLab from 64 years of McIntosh family ownership. Verry is a frequent public advocate for using more wood in construction, and for government procurement rules that favour it.",
+  "stake": "Building-products standards, government procurement and carbon policy all bear on a timber processor. Verry campaigns publicly on exactly those settings."
+ },
+ "shaw-s-wire-ropes-ltd": {
+  "slug": "shaw-s-wire-ropes-ltd",
+  "name": "Shaw's Wire Ropes Ltd",
+  "kind": "company",
+  "summary": "Incorporated 29 Jun 2000. Shareholding is split between 3 parties.",
+  "register": {
+   "nzbn": "9429037209377",
+   "incorporated": "29 Jun 2000",
+   "directors": [
+    "Samuel Philip Seymour Linder",
+    "Jonathon Edward Schick",
+    "Nelson Edward Schick",
+    "Susan Dorothy Schick",
+    "Robert David Elliott",
+    "Paul Ewen Callaghan"
+   ],
+   "shareholders": [
+    "Nelson Edward Schick (45.00%)",
+    "Jonathon Edward Schick (0.00%)",
+    "Samuel Philip Seymour Linder (10.00%)"
+   ]
+  },
+  "sources": [
+   {
+    "title": "SHAW'S WIRE ROPES LIMITED — Companies Office register",
+    "url": "https://app.companiesoffice.govt.nz/companies/app/ui/pages/companies/1045874"
+   }
+  ],
+  "background": "Formerly John Shaw (NZ) Limited, Windsor Park Holdings Limited."
+ },
+ "stewart-capital-partners-ltd": {
+  "slug": "stewart-capital-partners-ltd",
+  "name": "Stewart Capital Partners Ltd",
+  "kind": "company",
+  "summary": "Incorporated 07 Mar 2024. Abs Capital Limited holds 100.00% of the shares.",
+  "register": {
+   "nzbn": "9429051941390",
+   "incorporated": "07 Mar 2024",
+   "directors": [
+    "Norman James Elder",
+    "Alan Bruce Stewart",
+    "Benjamin Alan Stewart",
+    "Samuel Bruce Stewart"
+   ],
+   "shareholders": [
+    "Abs Capital Limited (100.00%)"
+   ]
+  },
+  "sources": [
+   {
+    "title": "STEWART CAPITAL PARTNERS LIMITED — Companies Office register",
+    "url": "https://app.companiesoffice.govt.nz/companies/app/ui/pages/companies/9148852"
+   }
+  ]
+ },
+ "sunlight-management-ltd": {
+  "slug": "sunlight-management-ltd",
+  "name": "Sunlight Management Ltd",
+  "kind": "company",
+  "summary": "Incorporated 21 Aug 2025. Jie Lin holds 100.00% of the shares.",
+  "register": {
+   "nzbn": "9429053069122",
+   "incorporated": "21 Aug 2025",
+   "directors": [
+    "Yiling Liu",
+    "Weiquan Tan"
+   ],
+   "shareholders": [
+    "Jie Lin (100.00%)"
+   ]
+  },
+  "sources": [
+   {
+    "title": "SUNLIGHT MANAGEMENT LIMITED — Companies Office register",
+    "url": "https://app.companiesoffice.govt.nz/companies/app/ui/pages/companies/9365665"
+   }
+  ]
+ },
+ "t-bowker": {
+  "slug": "t-bowker",
+  "name": "Troy Bowker",
+  "kind": "person",
+  "summary": "Executive chairman of Caniwi Capital, an outspoken donor who switched from funding Labour MPs to funding the right.",
+  "background": "Bowker runs the Wellington investment company Caniwi Capital. He gave at least $51,000 across three campaigns to Labour's Stuart Nash, who later said he would take no more of his money, and Jacinda Ardern's 2017 campaign also took a donation from him. He now funds ACT and NZ First, telling the Herald he backs \"politicians on the political right who oppose Labour\". He drew criticism for a social media post attacking Sir Ian Taylor over what he called a \"Māori-loving agenda\".",
+  "stake": "An explicitly ideological donor who says publicly what he wants his money to buy: a change of government.",
+  "sources": [
+   {
+    "title": "Controversial businessman Troy Bowker makes $35,000 ACT donation — Newstalk ZB",
+    "url": "https://www.newstalkzb.co.nz/news/politics/controversial-businessman-troy-bowker-makes-35-000-act-donation"
+   },
+   {
+    "title": "Stuart Nash received $51,000 in donations from Troy Bowker — Newsroom",
+    "url": "https://www.newsroom.co.nz/politics/stuart-nash-received-51000-in-donations-from-troy-bowker"
+   },
+   {
+    "title": "Troy Bowker — RNZ",
+    "url": "https://www.rnz.co.nz/tags/Troy%20Bowker"
+   }
+  ]
+ },
+ "t-farmer": {
+  "slug": "t-farmer",
+  "name": "Trevor Farmer",
+  "kind": "person",
+  "summary": "Auckland investor behind Tappenden Holdings and the Viaduct Harbour land bank, and a donor to three parties at once.",
+  "background": "Farmer made his fortune alongside Alan Gibbs, including a $114 million takeover of the listed transport and security company Freightways, and in 1990 the two backed Craig Heatley in building Sky TV. His family's interests include a large land bank around Auckland's Viaduct Harbour, held through Tappenden Holdings. Now in his late eighties, he remains on the board of the family's main holding companies with succession underway to his son Dean.",
+  "wealth": "Family wealth reported at around $1.2 billion in 2025.",
+  "stake": "Property development and Auckland land holdings sit squarely under planning and resource-management law, which the current government has been rewriting.",
+  "sources": [
+   {
+    "title": "Trevor Farmer — NBR List",
+    "url": "https://nbr.co.nz/farmer-trevor-2"
+   },
+   {
+    "title": "Featured NBR Lister 2024: Trevor Farmer",
+    "url": "https://www.nbr.co.nz/featured-listers-2024/featured-nbr-lister-2024-trevor-farmer/"
+   }
+  ]
+ },
+ "tiger-fintech-nz-ltd": {
+  "slug": "tiger-fintech-nz-ltd",
+  "name": "Tiger Fintech (NZ) Ltd",
+  "kind": "company",
+  "summary": "Incorporated 17 May 2021. Tiger Brokers (NZ) Limited holds 100.00% of the shares.",
+  "register": {
+   "nzbn": "9429049326031",
+   "incorporated": "17 May 2021",
+   "directors": [
+    "Vincent Chun Hung Cheung",
+    "Chi On Leung",
+    "Wei Jing Low",
+    "Aaron Rodney Nicholls",
+    "Laurence Robert Pope"
+   ],
+   "shareholders": [
+    "Tiger Brokers (NZ) Limited (100.00%)"
+   ]
+  },
+  "sources": [
+   {
+    "title": "TIGER FINTECH (NZ) LIMITED — Companies Office register",
+    "url": "https://app.companiesoffice.govt.nz/companies/app/ui/pages/companies/8187510"
+   }
+  ]
+ },
+ "van-den-brink-karaka-ltd": {
+  "slug": "van-den-brink-karaka-ltd",
+  "name": "Van Den Brink Karaka Ltd",
+  "kind": "company",
+  "summary": "Incorporated 27 Mar 1972. Vdb Capital Limited holds 50.00% of the shares.",
+  "register": {
+   "nzbn": "9429040563176",
+   "incorporated": "27 Mar 1972",
+   "directors": [
+    "Anthony Andrew Peter Van Den Brink",
+    "Karl Joseph Van Den Brink",
+    "Hendrina Van Den Brink",
+    "Steven Anthony Van Den Brink",
+    "John Joyce"
+   ],
+   "shareholders": [
+    "Vdb Capital Limited (50.00%)",
+    "Anthony Andrew Peter Van Den Brink (50.00%)"
+   ]
+  },
+  "sources": [
+   {
+    "title": "VAN DEN BRINK KARAKA LIMITED — Companies Office register",
+    "url": "https://app.companiesoffice.govt.nz/companies/app/ui/pages/companies/83716"
+   }
+  ]
+ },
+ "vdb-management-services-ltd": {
+  "slug": "vdb-management-services-ltd",
+  "name": "VDB Management Services Ltd",
+  "kind": "company",
+  "summary": "Incorporated 22 Jul 1998. Vdb Capital Limited holds 50.00% of the shares.",
+  "register": {
+   "nzbn": "9429037813055",
+   "incorporated": "22 Jul 1998",
+   "directors": [
+    "Anthony Andrew Peter Van Den Brink",
+    "Karl Joseph Van Den Brink"
+   ],
+   "shareholders": [
+    "Vdb Capital Limited (50.00%)",
+    "Anthony Andrew Peter Van Den Brink (50.00%)"
+   ]
+  },
+  "sources": [
+   {
+    "title": "VDB MANAGEMENT SERVICES LIMITED — Companies Office register",
+    "url": "https://app.companiesoffice.govt.nz/companies/app/ui/pages/companies/914608"
+   }
+  ]
+ },
+ "velocity-freight-ltd": {
+  "slug": "velocity-freight-ltd",
+  "name": "Velocity Freight Ltd",
+  "kind": "company",
+  "summary": "Incorporated 07 Feb 2014. Diane Haliday holds 100.00% of the shares.",
+  "register": {
+   "nzbn": "9429041081655",
+   "incorporated": "07 Feb 2014",
+   "directors": [
+    "Gregory Haliday"
+   ],
+   "shareholders": [
+    "Diane Haliday (100.00%)"
+   ]
+  },
+  "sources": [
+   {
+    "title": "VELOCITY FREIGHT LIMITED — Companies Office register",
+    "url": "https://app.companiesoffice.govt.nz/companies/app/ui/pages/companies/4936899"
+   }
+  ]
+ },
+ "w-lewis": {
+  "slug": "w-lewis",
+  "name": "Warren Lewis",
+  "kind": "person",
+  "summary": "Managing director of Fairview Metal Industries, whose $500,000 cheque in June 2023 was the largest single donation in this dataset.",
+  "background": "Lewis is an Auckland businessman who runs Fairview Metal Industries and is known in motorsport circles. His single donation to National in June 2023 was larger than everything the Labour Party declared over the $20,000 threshold that whole year, and was reported at the time as one of the biggest individual political donations in New Zealand history.",
+  "stake": "Manufacturing and construction-adjacent, so exposed to building regulation, trade and tax settings.",
+  "sources": [
+   {
+    "title": "National gets $500,000 from Auckland businessman Warren Lewis — NZ Herald",
+    "url": "https://www.nzherald.co.nz/nz/politics/national-gets-500000-in-a-large-donation-from-auckland-businessman-warren-lewis-more-than-labour-all-year/JA5KYFCJARETBDUKBIUCVFDNHA/"
+   },
+   {
+    "title": "National raised $10.4m in donations in 2023 — RNZ",
+    "url": "https://www.rnz.co.nz/news/politics/515911/national-raised-10-point-4m-in-donations-in-2023"
+   }
+  ]
+ },
+ "weft-knitting-company": {
+  "slug": "weft-knitting-company",
+  "name": "Weft Knitting Company",
+  "kind": "company",
+  "summary": "Incorporated 23 Mar 1984. Hugh Alan Douglas holds 60.00% of the shares.",
+  "register": {
+   "nzbn": "9429039959485",
+   "incorporated": "23 Mar 1984",
+   "directors": [
+    "Hugh Alan Douglas",
+    "Marie Jose Johanna Douglas"
+   ],
+   "shareholders": [
+    "Hugh Alan Douglas (60.00%)",
+    "Marie Jose Johanna Douglas (40.00%)"
+   ]
+  },
+  "sources": [
+   {
+    "title": "WEFT KNITTING CO. LIMITED — Companies Office register",
+    "url": "https://app.companiesoffice.govt.nz/companies/app/ui/pages/companies/237815"
+   }
+  ],
+  "background": "Formerly Weft Industries Limited."
+ },
+ "williams-corporation-ltd": {
+  "slug": "williams-corporation-ltd",
+  "name": "Williams Corporation Ltd",
+  "kind": "company",
+  "summary": "One of the country's largest townhouse developers, owned equally by its two founders' family trusts.",
+  "register": {
+   "nzbn": "9429041425640",
+   "incorporated": "25 Sep 2014",
+   "directors": [
+    "Blair William Chappell",
+    "Matthew William Horncastle"
+   ],
+   "shareholders": [
+    "Horncastle Family Trust Holdings Limited (49.00%)",
+    "Chappell Family Trust Holdings Limited (49.00%)",
+    "Blair William Chappell (1.00%)",
+    "Matthew William Horncastle (1.00%)"
+   ],
+   "industry": "Residential property development"
+  },
+  "sources": [
+   {
+    "title": "WILLIAMS CORPORATION LIMITED — Companies Office register",
+    "url": "https://app.companiesoffice.govt.nz/companies/app/ui/pages/companies/5472041"
+   },
+   {
+    "title": "Williams Corporation — developer profile",
+    "url": "https://geoln.com/developers/williams-corporation"
+   }
+  ],
+  "background": "Matthew Horncastle and Blair Chappell founded Williams Corporation in Christchurch in 2012. It works in infill development — buying older houses and replacing them with townhouses — and has grown into one of New Zealand's highest-volume residential developers. The register shows the Horncastle and Chappell family trust holding companies with 49% each.",
+  "stake": "Infill housing depends directly on zoning density, consenting rules and the resource-management settings the government has been rewriting."
+ },
+ "windsor-park-stud-ltd": {
+  "slug": "windsor-park-stud-ltd",
+  "name": "Windsor Park Stud Ltd",
+  "kind": "company",
+  "summary": "Incorporated 28 Jun 1994. Shareholding is split between 3 parties.",
+  "register": {
+   "nzbn": "9429038646553",
+   "incorporated": "28 Jun 1994",
+   "directors": [
+    "Nelson Edward Schick",
+    "Rodney Schick",
+    "Susan Dorothy Schick",
+    "Kathryn Mary Roberts",
+    "Alison Naomi Parr"
+   ],
+   "shareholders": [
+    "Nelson Edward Schick (32.00%)",
+    "Susan Dorothy Schick (33.00%)",
+    "Rodney Schick (1.00%)"
+   ]
+  },
+  "sources": [
+   {
+    "title": "WINDSOR PARK STUD LIMITED — Companies Office register",
+    "url": "https://app.companiesoffice.govt.nz/companies/app/ui/pages/companies/638809"
+   }
+  ],
+  "background": "Formerly Minot Holdings Limited."
+ },
+ "wolfbrook-ltd": {
+  "slug": "wolfbrook-ltd",
+  "name": "Wolfbrook Ltd",
+  "kind": "company",
+  "summary": "Part of Wolfbrook Property Group, a large Christchurch residential developer co-founded by Steve Brooks.",
+  "register": {
+   "nzbn": "9429048186476",
+   "incorporated": "14 May 2020",
+   "directors": [
+    "Steven Cavell Brooks",
+    "James Owen Cooney"
+   ],
+   "shareholders": [
+    "Wolfbrook Property Group Limited (100.00%)"
+   ],
+   "industry": "Residential property development"
+  },
+  "sources": [
+   {
+    "title": "WOLFBROOK LIMITED — Companies Office register",
+    "url": "https://app.companiesoffice.govt.nz/companies/app/ui/pages/companies/7990840"
+   },
+   {
+    "title": "Millionaire behind Christopher Luxon PM ad revealed — Newstalk ZB",
+    "url": "https://newstalkzb.co.nz/news/national/millionaire-behind-christopher-luxon-pm-ad-revealed"
+   },
+   {
+    "title": "Man who backed Christopher Luxon wins charity dinner with Simon Bridges — Newstalk ZB",
+    "url": "https://www.newstalkzb.co.nz/news/politics/man-who-backed-christopher-luxon-wins-charity-dinner-with-simon-bridges"
+   }
+  ],
+  "background": "Brooks started as a real estate agent at 14 and co-founded what became one of New Zealand's largest residential developers. He has been publicly associated with National before: he paid for an advertisement backing Christopher Luxon when Luxon left Air New Zealand, which the Electoral Commission said breached the rules because it was not authorised by the party, and he won a charity dinner with Simon Bridges at auction.",
+  "stake": "Another developer on a register where property is the single largest donor sector."
+ }
+}
